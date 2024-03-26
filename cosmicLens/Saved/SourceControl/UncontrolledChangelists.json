@@ -14,10 +14,13 @@
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/Character_Blueprint.uasset",
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/enviro_Sprite.uasset",
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/Cursor.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/POI.uasset",
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/cursor_Sprite.uasset",
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/cursorFlipbook.uasset",
 				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/POI_Sprite.uasset",
+=======
+>>>>>>> Stashed changes
 				"C:/Users/marshkate1/Documents/Unreal/cosmic_lens/cosmicLens/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}

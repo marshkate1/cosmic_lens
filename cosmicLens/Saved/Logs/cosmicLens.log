@@ -1952,6 +1952,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.26-04.47.23:947][962]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Search/Blueprints/Cursor.Cursor
 [2024.03.26-04.47.24:273][991]BlueprintLog: New page: Compile Cursor
 [2024.03.26-04.47.24:290][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+<<<<<<< Updated upstream
 [2024.03.26-04.47.56:801][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2024.03.26-04.47.56:802][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Search/Map/SearchMap' took 0.014
 [2024.03.26-04.47.56:804][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Search/search_assets/cursor] ([1] browsable assets)...
@@ -2797,3 +2798,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.26-05.07.01:446][455]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.03.26-05.07.01:501][455]LogExit: Exiting.
 [2024.03.26-05.07.01:510][455]Log file closed, 03/26/24 18:07:01
+=======
+>>>>>>> Stashed changes
