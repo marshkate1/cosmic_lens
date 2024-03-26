@@ -5,22 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Map/SearchMap.umap",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/UI/UI.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/cursor.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/enviro.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/POI.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/POI_Actor.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/Character_Blueprint.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/enviro_Sprite.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/Cursor.uasset",
-<<<<<<< Updated upstream
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/Blueprints/POI.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/cursor_Sprite.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/cursorFlipbook.uasset",
-				"C:/Users/hulenacole/GIT/cosmic_lens/cosmicLens/Content/Search/search_assets/POI_Sprite.uasset",
-=======
->>>>>>> Stashed changes
+				"C:/Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap",
+				"C:/Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/PlayerControlledCamera.uasset",
 				"C:/Users/marshkate1/Documents/Unreal/cosmic_lens/cosmicLens/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
