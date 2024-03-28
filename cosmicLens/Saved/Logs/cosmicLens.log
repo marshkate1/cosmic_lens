@@ -3593,3 +3593,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.28-06.02.43:126][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.29 sec)
 [2024.03.28-06.02.43:128][832]AssetCheck: New page: Asset Save: PhotoLevel
 [2024.03.28-06.02.43:128][832]LogContentValidation: Display: Validating /Script/Engine.World /Game/PhotoLevel.PhotoLevel
+[2024.03.28-06.03.35:328][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.28-06.03.35:328][471]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.03.28-06.03.35:328][471]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-06.03.35:328][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-06.03.35:332][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.28-06.03.35:336][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-06.03.35:344][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.28-06.03.35:344][471]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.28-06.03.35:344][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.28-06.03.35:346][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.28-06.03.35:352][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.28-06.03.35:419][473]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.03.28-06.03.40:218][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
