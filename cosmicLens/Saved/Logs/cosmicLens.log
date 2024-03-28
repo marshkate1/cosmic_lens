@@ -3606,3 +3606,41 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.28-06.03.35:352][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.03.28-06.03.35:419][473]LogPlayLevel: Display: Destroying online subsystem :Context_66
 [2024.03.28-06.03.40:218][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.28-06.06.35:818][697]LogViewport: Scene viewport resized to 1199x563, mode Windowed.
+[2024.03.28-06.10.14:093][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.28-06.10.14:156][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhotoLevel" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.28-06.10.14:179][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.28-06.10.14:185][394]LogSavePackage: Moving output files for package: /Game/PhotoLevel
+[2024.03.28-06.10.14:186][394]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/PhotoLevel6E7630AF4A9744FE907178ABC2B1389F.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap'
+[2024.03.28-06.10.14:190][394]LogFileHelpers: Saving map 'PhotoLevel' took 0.035
+[2024.03.28-06.10.14:195][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.39 sec)
+[2024.03.28-06.10.14:196][394]AssetCheck: New page: Asset Save: PhotoLevel
+[2024.03.28-06.10.14:197][394]LogContentValidation: Display: Validating /Script/Engine.World /Game/PhotoLevel.PhotoLevel
+[2024.03.28-06.11.50:938][576]LogViewport: Scene viewport resized to 1200x563, mode Windowed.
+[2024.03.28-06.11.50:986][576]LogViewport: Scene viewport resized to 1204x579, mode Windowed.
+[2024.03.28-06.11.51:037][576]LogViewport: Scene viewport resized to 1215x618, mode Windowed.
+[2024.03.28-06.11.51:085][576]LogViewport: Scene viewport resized to 1225x661, mode Windowed.
+[2024.03.28-06.11.51:136][576]LogViewport: Scene viewport resized to 1232x691, mode Windowed.
+[2024.03.28-06.11.51:186][576]LogViewport: Scene viewport resized to 1240x727, mode Windowed.
+[2024.03.28-06.11.51:219][576]LogViewport: Scene viewport resized to 1250x759, mode Windowed.
+[2024.03.28-06.11.51:252][576]LogViewport: Scene viewport resized to 1253x772, mode Windowed.
+[2024.03.28-06.11.51:303][576]LogViewport: Scene viewport resized to 1253x787, mode Windowed.
+[2024.03.28-06.11.51:335][576]LogViewport: Scene viewport resized to 1253x815, mode Windowed.
+[2024.03.28-06.11.51:386][576]LogViewport: Scene viewport resized to 1253x838, mode Windowed.
+[2024.03.28-06.11.51:436][576]LogViewport: Scene viewport resized to 1253x854, mode Windowed.
+[2024.03.28-06.11.51:486][576]LogViewport: Scene viewport resized to 1253x856, mode Windowed.
+[2024.03.28-06.11.51:535][576]LogViewport: Scene viewport resized to 1253x860, mode Windowed.
+[2024.03.28-06.11.51:586][576]LogViewport: Scene viewport resized to 1253x870, mode Windowed.
+[2024.03.28-06.12.40:242][381]LogViewport: Scene viewport resized to 1254x870, mode Windowed.
+[2024.03.28-06.12.40:288][381]LogViewport: Scene viewport resized to 1296x891, mode Windowed.
+[2024.03.28-06.12.40:339][381]LogViewport: Scene viewport resized to 1407x948, mode Windowed.
+[2024.03.28-06.12.40:387][381]LogViewport: Scene viewport resized to 1547x997, mode Windowed.
+[2024.03.28-06.12.40:439][381]LogViewport: Scene viewport resized to 1605x1010, mode Windowed.
+[2024.03.28-06.12.40:489][381]LogViewport: Scene viewport resized to 1654x1024, mode Windowed.
+[2024.03.28-06.12.40:537][381]LogViewport: Scene viewport resized to 1700x1041, mode Windowed.
+[2024.03.28-06.12.40:589][381]LogViewport: Scene viewport resized to 1715x1047, mode Windowed.
+[2024.03.28-06.12.40:639][381]LogViewport: Scene viewport resized to 1738x1050, mode Windowed.
+[2024.03.28-06.12.40:689][381]LogViewport: Scene viewport resized to 1800x1050, mode Windowed.
+[2024.03.28-06.12.40:739][381]LogViewport: Scene viewport resized to 1928x1050, mode Windowed.
+[2024.03.28-06.12.40:787][381]LogViewport: Scene viewport resized to 1972x1050, mode Windowed.
+[2024.03.28-06.12.40:890][381]LogViewport: Scene viewport resized to 1972x1214, mode Windowed.
