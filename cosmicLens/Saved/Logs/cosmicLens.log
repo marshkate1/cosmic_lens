@@ -6976,3 +6976,1077 @@ Script Stack (1 frames) :
 [2024.04.10-05.42.03:153][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.24 sec)
 [2024.04.10-05.42.03:167][623]AssetCheck: New page: Asset Save: TestJournalPublished
 [2024.04.10-05.42.03:167][623]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CameraFeature/TestJournalPublished.TestJournalPublished
+[2024.04.10-05.48.08:358][225]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.10-05.48.41:013][901]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.10-05.51.10:829][669]BlueprintLog: New page: Compile TestJournalPublished
+[2024.04.10-05.51.10:849][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.10-05.51.53:074][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.10-05.51.53:077][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PhotoLevel' took 0.012
+[2024.04.10-05.51.53:077][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CameraFeature/TestJournalPublished] ([2] browsable assets)...
+[2024.04.10-05.51.53:080][819]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CameraFeature/TestJournalPublished.TestJournalPublished]
+[2024.04.10-05.51.53:080][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/CameraFeature/TestJournalPublished]
+[2024.04.10-05.51.53:084][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CameraFeature/TestJournalPublished_Auto0
+[2024.04.10-05.51.53:084][819]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/TestJournalPublished_Auto08D7D2EB94BD486CC67809CBEBEEACD8B.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/CameraFeature/TestJournalPublished_Auto0.uasset'
+[2024.04.10-05.51.53:084][819]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.04.10-05.53.50:078][898]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.10-05.57.24:874][856]BlueprintLog: New page: Compile TestJournalPublished
+[2024.04.10-05.57.24:895][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.10-05.58.41:615][397]BlueprintLog: New page: Compile TestJournalPublished
+[2024.04.10-05.58.41:637][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.10-05.59.25:745][691]LogSlate: Window 'TestJournalPublished' being destroyed
+[2024.04.10-05.59.25:750][691]LogSlate: Window 'TestJournalPublished' being destroyed
+[2024.04.10-05.59.25:806][691]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-05.59.25:806][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-05.59.25:814][691]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-05.59.25:814][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-05.59.25:877][691]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-05.59.25:877][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-05.59.25:882][691]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-05.59.25:882][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-05.59.26:875][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-05.59.26:879][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-05.59.26:879][798]PIE: New page: PIE session: PhotoLevel (11/04/2024, 5:59:26 am)
+[2024.04.10-05.59.26:915][798]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-05.59.26:919][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003585s)
+[2024.04.10-05.59.26:919][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.003647s)
+[2024.04.10-05.59.26:932][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.10-05.59.26:939][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-05.59.26:939][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-05.59.26:939][798]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-05.59.26:940][798]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2024.04.10-05.59.26:940][798]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-05.59.26:940][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-05.59.26:940][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-05.59.26:940][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-05.59.26:940][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-05.59.26:940][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-05.59.26:942][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-05.59.26:990][798]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-05.59.26:990][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-05.59.26:990][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-05.59.26:990][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-05.59.26:991][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.04.10-05.59.26:991][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.04.10-05.59.26:992][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.04.10-05.59.26:992][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.04.10-05.59.26:992][798]LogInit: FAudioDevice initialized with ID 57.
+[2024.04.10-05.59.26:992][798]LogAudio: Display: Audio Device (ID: 57) registered with world 'PhotoLevel'.
+[2024.04.10-05.59.26:992][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.10-05.59.26:994][798]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-05.59.26:995][798]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-17.59.26
+[2024.04.10-05.59.26:995][798]LogWorld: Bringing up level for play took: 0.000954
+[2024.04.10-05.59.26:997][798]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2024.04.10-05.59.26:998][798]PIE: Server logged in
+[2024.04.10-05.59.26:998][798]PIE: Play in editor total start time 0.12 seconds.
+[2024.04.10-05.59.29:144][ 51]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.29:150][ 52]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.30:138][168]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.30:143][169]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.31:164][289]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.31:169][290]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.32:393][434]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.32:398][435]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.34:269][657]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.34:275][658]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.34:980][740]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.34:984][741]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-05.59.36:039][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-05.59.36:040][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-05.59.36:040][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-05.59.36:040][865]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_55.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_3
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-05.59.36:040][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-05.59.36:040][865]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_55.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_4
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-05.59.36:040][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-05.59.36:040][865]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-05.59.36:040][865]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-05.59.48:131][316]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-05.59.48:131][316]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.10-05.59.50:666][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-05.59.50:666][617]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-05.59.50:666][617]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-05.59.50:666][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-05.59.50:669][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-05.59.50:672][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-05.59.50:686][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-05.59.50:686][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.10-05.59.50:686][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.10-05.59.50:688][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.10-05.59.50:692][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-05.59.50:694][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.10-05.59.50:821][618]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2024.04.10-05.59.50:879][618]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-05.59.54:128][973]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-05.59.54:132][973]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.01.13:992][509]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.01.13:998][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.01.13:998][509]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:01:13 am)
+[2024.04.10-06.01.14:036][509]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.01.14:040][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003686s)
+[2024.04.10-06.01.14:040][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.003758s)
+[2024.04.10-06.01.14:056][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.10-06.01.14:058][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.01.14:058][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.01.14:059][509]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.01.14:059][509]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2024.04.10-06.01.14:059][509]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.01.14:059][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.01.14:059][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.01.14:060][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.01.14:060][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.01.14:060][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.01.14:061][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.01.14:108][509]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.01.14:108][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.01.14:108][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.01.14:108][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.01.14:108][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.04.10-06.01.14:108][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2024.04.10-06.01.14:110][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.04.10-06.01.14:110][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.04.10-06.01.14:110][509]LogInit: FAudioDevice initialized with ID 58.
+[2024.04.10-06.01.14:110][509]LogAudio: Display: Audio Device (ID: 58) registered with world 'PhotoLevel'.
+[2024.04.10-06.01.14:110][509]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.04.10-06.01.14:113][509]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.01.14:114][509]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.01.14
+[2024.04.10-06.01.14:114][509]LogWorld: Bringing up level for play took: 0.000910
+[2024.04.10-06.01.14:115][509]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2024.04.10-06.01.14:116][509]PIE: Server logged in
+[2024.04.10-06.01.14:117][509]PIE: Play in editor total start time 0.12 seconds.
+[2024.04.10-06.01.26:999][ 48]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.27:005][ 49]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.27:952][160]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.27:958][161]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.28:763][255]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.28:768][256]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.29:624][356]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.29:629][357]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.30:150][417]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.30:156][418]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.30:654][475]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.30:659][476]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.01.31:215][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.01.31:215][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.01.31:215][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.01.31:215][540]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_56.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_3
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.01.31:215][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.01.31:215][540]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_56.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_4
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.01.31:215][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.01.31:215][540]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.01.31:215][540]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.01.33:722][841]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-06.01.33:722][841]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.10-06.01.35:126][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.01.35:126][  6]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.01.35:126][  6]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.01.35:126][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.01.35:129][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.01.35:133][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.01.35:145][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.01.35:145][  6]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.04.10-06.01.35:145][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.04.10-06.01.35:147][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.04.10-06.01.35:152][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.10-06.01.35:277][  7]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2024.04.10-06.01.35:335][  7]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.02.38:096][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.10-06.02.38:098][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PhotoLevel' took 0.017
+[2024.04.10-06.02.38:100][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CameraFeature/IndividualPhotos] ([2] browsable assets)...
+[2024.04.10-06.02.38:100][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/CameraFeature/IndividualPhotos]
+[2024.04.10-06.02.38:105][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CameraFeature/IndividualPhotos_Auto1
+[2024.04.10-06.02.38:105][955]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/IndividualPhotos_Auto1A8D6D3E74C7FC168470BB6932D09DC25.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/CameraFeature/IndividualPhotos_Auto1.uasset'
+[2024.04.10-06.02.38:106][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CameraFeature/TestJournalPublished] ([2] browsable assets)...
+[2024.04.10-06.02.38:108][955]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CameraFeature/TestJournalPublished.TestJournalPublished]
+[2024.04.10-06.02.38:108][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/CameraFeature/TestJournalPublished]
+[2024.04.10-06.02.38:112][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CameraFeature/TestJournalPublished_Auto1
+[2024.04.10-06.02.38:112][955]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/TestJournalPublished_Auto1DFEBAB3C4BE62FE1B8D730A606C2873F.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/CameraFeature/TestJournalPublished_Auto1.uasset'
+[2024.04.10-06.02.38:112][955]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.04.10-06.02.38:142][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_50
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.03.04:330][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.03.04:335][ 84]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.03.16:624][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.03.16:629][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.03.16:629][502]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:03:16 am)
+[2024.04.10-06.03.16:655][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.03.16:658][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002201s)
+[2024.04.10-06.03.16:658][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.002245s)
+[2024.04.10-06.03.16:671][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.10-06.03.16:673][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.03.16:673][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.03.16:674][502]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.03.16:674][502]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2024.04.10-06.03.16:674][502]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.03.16:674][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.03.16:674][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.03.16:674][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.03.16:674][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.03.16:674][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.03.16:676][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.03.16:722][502]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.03.16:722][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.03.16:722][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.03.16:722][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.03.16:723][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.04.10-06.03.16:723][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2024.04.10-06.03.16:724][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.04.10-06.03.16:724][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.04.10-06.03.16:724][502]LogInit: FAudioDevice initialized with ID 59.
+[2024.04.10-06.03.16:724][502]LogAudio: Display: Audio Device (ID: 59) registered with world 'PhotoLevel'.
+[2024.04.10-06.03.16:724][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.04.10-06.03.16:727][502]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.03.16:728][502]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.03.16
+[2024.04.10-06.03.16:729][502]LogWorld: Bringing up level for play took: 0.000961
+[2024.04.10-06.03.16:730][502]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2024.04.10-06.03.16:731][502]PIE: Server logged in
+[2024.04.10-06.03.16:732][502]PIE: Play in editor total start time 0.103 seconds.
+[2024.04.10-06.03.18:017][651]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.18:023][652]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.18:553][713]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.18:559][714]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.19:082][774]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.19:086][775]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.19:516][824]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.19:522][825]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.03.20:293][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.03.20:293][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.03.20:293][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.03.20:293][915]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.03.20:293][915]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.03.22:716][206]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-06.03.22:717][206]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.10-06.03.24:447][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.03.24:447][408]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.03.24:447][408]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.03.24:447][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.03.24:452][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.03.24:454][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.03.24:465][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.03.24:465][408]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.04.10-06.03.24:465][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.04.10-06.03.24:467][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.04.10-06.03.24:474][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.10-06.03.24:616][409]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2024.04.10-06.03.24:675][409]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.03.31:494][194]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CameraFeature/IndividualPhotos.IndividualPhotos
+[2024.04.10-06.03.31:495][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.03.31:495][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.03.31:499][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.03.31:499][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.03.43:243][146]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_51
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.03.45:209][298]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.03.45:237][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.10-06.03.45:278][298]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_52
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.03.55:559][139]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.03.55:587][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.10-06.03.55:630][139]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_53
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.03.57:840][323]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.03.57:845][323]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.04.01:971][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.04.01:976][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.04.01:976][567]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:04:01 am)
+[2024.04.10-06.04.02:005][567]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.04.02:008][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002542s)
+[2024.04.10-06.04.02:008][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.002591s)
+[2024.04.10-06.04.02:023][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.10-06.04.02:027][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.04.02:027][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.04.02:027][567]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.04.02:028][567]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2024.04.10-06.04.02:028][567]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.04.02:028][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.04.02:028][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.04.02:028][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.04.02:028][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.04.02:028][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.04.02:030][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.04.02:075][567]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.04.02:075][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.04.02:075][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.04.02:075][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.04.02:076][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.04.10-06.04.02:076][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2024.04.10-06.04.02:078][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.04.10-06.04.02:078][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.04.10-06.04.02:078][567]LogInit: FAudioDevice initialized with ID 60.
+[2024.04.10-06.04.02:078][567]LogAudio: Display: Audio Device (ID: 60) registered with world 'PhotoLevel'.
+[2024.04.10-06.04.02:078][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.04.10-06.04.02:080][567]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.04.02:081][567]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.04.02
+[2024.04.10-06.04.02:081][567]LogWorld: Bringing up level for play took: 0.000841
+[2024.04.10-06.04.02:083][567]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2024.04.10-06.04.02:084][567]PIE: Server logged in
+[2024.04.10-06.04.02:085][567]PIE: Play in editor total start time 0.11 seconds.
+[2024.04.10-06.04.04:363][813]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.04:369][813]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.04:926][872]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.04:931][872]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.05:734][958]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.05:740][958]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.07:132][108]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.07:132][108]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.07:132][108]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.04.07:132][108]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.04.09:845][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.04.09:846][398]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.04.09:846][398]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.04.09:846][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.04.09:847][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.04.09:852][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.04.09:864][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.04.09:864][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.04.10-06.04.09:864][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.04.10-06.04.09:866][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.04.10-06.04.09:870][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.04.09:872][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.10-06.04.10:024][399]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2024.04.10-06.04.10:077][399]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.04.12:861][619]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.04.12:868][619]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.04.20:823][332]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_54
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.04.23:026][516]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.04.23:053][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.10-06.04.23:096][516]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_55
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.04.24:454][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.04.24:458][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.04.24:458][623]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:04:24 am)
+[2024.04.10-06.04.24:458][623]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.04.24:460][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001788s)
+[2024.04.10-06.04.24:460][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.001818s)
+[2024.04.10-06.04.24:470][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.10-06.04.24:474][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.04.24:474][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.04.24:474][623]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.04.24:474][623]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2024.04.10-06.04.24:474][623]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.04.24:474][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.04.24:474][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.04.24:475][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.04.24:475][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.04.24:475][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.04.24:477][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.04.24:523][623]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.04.24:523][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.04.24:523][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.04.24:523][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.04.24:523][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2024.04.10-06.04.24:523][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2024.04.10-06.04.24:525][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2024.04.10-06.04.24:525][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2024.04.10-06.04.24:525][623]LogInit: FAudioDevice initialized with ID 61.
+[2024.04.10-06.04.24:525][623]LogAudio: Display: Audio Device (ID: 61) registered with world 'PhotoLevel'.
+[2024.04.10-06.04.24:525][623]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2024.04.10-06.04.24:528][623]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.04.24:528][623]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.04.24
+[2024.04.10-06.04.24:529][623]LogWorld: Bringing up level for play took: 0.000862
+[2024.04.10-06.04.24:530][623]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2024.04.10-06.04.24:531][623]PIE: Server logged in
+[2024.04.10-06.04.24:532][623]PIE: Play in editor total start time 0.074 seconds.
+[2024.04.10-06.04.25:908][766]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.25:914][766]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.26:447][822]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.26:452][822]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.27:103][891]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.27:109][891]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.27:865][971]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.27:871][971]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.28:578][ 45]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.28:583][ 45]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.29:551][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.29:551][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.29:551][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.29:551][148]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_59.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_3
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.04.29:551][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.29:551][148]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.04.29:551][148]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.04.33:536][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.04.33:536][562]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.04.33:536][562]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.04.33:536][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.04.33:539][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.04.33:543][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.04.33:554][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.04.33:554][562]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2024.04.10-06.04.33:554][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.04.10-06.04.33:555][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.04.10-06.04.33:561][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.04.33:562][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.10-06.04.33:690][563]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2024.04.10-06.04.33:711][563]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.04.36:473][772]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.04.36:479][772]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.04.42:300][283]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_56
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.04.44:321][460]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.04.44:348][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.10-06.04.44:390][460]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_57
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.04.46:106][596]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.04.46:110][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.04.46:110][596]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:04:46 am)
+[2024.04.10-06.04.46:111][596]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.04.46:112][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001759s)
+[2024.04.10-06.04.46:112][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.001785s)
+[2024.04.10-06.04.46:122][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.10-06.04.46:126][596]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.04.46:126][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.04.46:126][596]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.04.46:127][596]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2024.04.10-06.04.46:127][596]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.04.46:127][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.04.46:127][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.04.46:127][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.04.46:127][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.04.46:127][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.04.46:129][596]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.04.46:175][596]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.04.46:176][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.04.46:176][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.04.46:176][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.04.46:176][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2024.04.10-06.04.46:176][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2024.04.10-06.04.46:178][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2024.04.10-06.04.46:178][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2024.04.10-06.04.46:178][596]LogInit: FAudioDevice initialized with ID 62.
+[2024.04.10-06.04.46:178][596]LogAudio: Display: Audio Device (ID: 62) registered with world 'PhotoLevel'.
+[2024.04.10-06.04.46:178][596]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2024.04.10-06.04.46:180][596]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.04.46:181][596]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.04.46
+[2024.04.10-06.04.46:182][596]LogWorld: Bringing up level for play took: 0.000876
+[2024.04.10-06.04.46:183][596]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2024.04.10-06.04.46:184][596]PIE: Server logged in
+[2024.04.10-06.04.46:185][596]PIE: Play in editor total start time 0.075 seconds.
+[2024.04.10-06.04.47:705][755]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.47:712][755]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.48:514][839]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.48:519][839]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.49:254][914]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.49:260][914]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.49:989][990]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.49:994][990]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.50:746][ 69]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.50:751][ 69]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.04.51:791][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.51:792][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.51:792][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.51:792][180]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_60.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_3
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.04.51:792][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.04.51:792][180]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.04.51:792][180]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.04.55:266][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.04.55:266][545]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.04.55:266][545]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.04.55:266][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.04.55:268][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.04.55:271][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.04.55:281][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.04.55:281][545]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2024.04.10-06.04.55:281][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.04.10-06.04.55:282][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.04.10-06.04.55:287][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.04.55:289][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.10-06.04.55:441][546]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2024.04.10-06.04.55:479][546]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.04.58:524][773]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.04.58:531][773]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.05.03:374][195]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_58
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.23:049][665]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_58
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.23:130][671]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_58
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.26:227][937]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.05.26:253][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.10-06.05.26:297][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_59
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.26:402][939]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_59
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.29:549][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.05.29:553][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.05.29:553][131]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:05:29 am)
+[2024.04.10-06.05.29:553][131]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.05.29:555][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001745s)
+[2024.04.10-06.05.29:555][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.001774s)
+[2024.04.10-06.05.29:565][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.10-06.05.29:569][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.05.29:570][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.05.29:570][131]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.05.29:570][131]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.04.10-06.05.29:570][131]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.05.29:570][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.05.29:570][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.05.29:571][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.05.29:571][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.05.29:571][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.05.29:572][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.05.29:618][131]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.05.29:618][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.05.29:618][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.05.29:618][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.05.29:619][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2024.04.10-06.05.29:619][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2024.04.10-06.05.29:621][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2024.04.10-06.05.29:621][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2024.04.10-06.05.29:621][131]LogInit: FAudioDevice initialized with ID 63.
+[2024.04.10-06.05.29:621][131]LogAudio: Display: Audio Device (ID: 63) registered with world 'PhotoLevel'.
+[2024.04.10-06.05.29:621][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2024.04.10-06.05.29:623][131]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.05.29:624][131]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.05.29
+[2024.04.10-06.05.29:624][131]LogWorld: Bringing up level for play took: 0.000914
+[2024.04.10-06.05.29:627][131]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2024.04.10-06.05.29:628][131]PIE: Server logged in
+[2024.04.10-06.05.29:628][131]PIE: Play in editor total start time 0.074 seconds.
+[2024.04.10-06.05.31:628][340]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.31:633][340]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.32:220][401]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.32:225][401]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.32:785][459]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.32:791][459]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.33:564][540]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.33:570][540]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.34:473][634]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.34:480][634]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.05.34:934][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.05.34:934][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.05.34:934][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.05.34:934][681]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Engine/Transient.UnrealEdEngine_0:GameInstance_61.SimplePublicationScreen_C_0.WidgetTree_0.IndividualPhotos_C_3
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.34:934][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.05.34:934][681]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.05.34:934][681]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.05.37:401][942]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-06.05.37:401][942]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.10-06.05.40:286][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.05.40:286][244]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.05.40:287][244]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.05.40:287][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.05.40:291][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.05.40:295][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.05.40:309][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.05.40:309][244]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2024.04.10-06.05.40:309][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.04.10-06.05.40:311][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.04.10-06.05.40:316][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.05.40:318][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.10-06.05.40:461][245]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2024.04.10-06.05.40:481][245]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.05.42:961][426]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.05.42:967][426]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.05.48:787][918]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UMaterialInstanceDynamic::SetTextureParameterValue' [The specified module could not be found.]
+[2024.04.10-06.05.55:390][452]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_60
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.55:462][457]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_60
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.57:210][610]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.05.57:236][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.10-06.05.57:279][610]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_61
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.57:385][612]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_61
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.05.59:207][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.05.59:211][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.05.59:211][756]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:05:59 am)
+[2024.04.10-06.05.59:235][756]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.05.59:238][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002045s)
+[2024.04.10-06.05.59:238][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.002085s)
+[2024.04.10-06.05.59:253][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.10-06.05.59:257][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.05.59:257][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.05.59:257][756]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.05.59:258][756]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2024.04.10-06.05.59:258][756]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.05.59:258][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.05.59:258][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.05.59:258][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.05.59:258][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.05.59:258][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.05.59:260][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.05.59:306][756]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.05.59:306][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.05.59:306][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.05.59:306][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.05.59:307][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2024.04.10-06.05.59:307][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2024.04.10-06.05.59:309][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2024.04.10-06.05.59:309][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2024.04.10-06.05.59:309][756]LogInit: FAudioDevice initialized with ID 64.
+[2024.04.10-06.05.59:309][756]LogAudio: Display: Audio Device (ID: 64) registered with world 'PhotoLevel'.
+[2024.04.10-06.05.59:309][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2024.04.10-06.05.59:311][756]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.05.59:312][756]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.05.59
+[2024.04.10-06.05.59:313][756]LogWorld: Bringing up level for play took: 0.000939
+[2024.04.10-06.05.59:315][756]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2024.04.10-06.05.59:315][756]PIE: Server logged in
+[2024.04.10-06.05.59:316][756]PIE: Play in editor total start time 0.104 seconds.
+[2024.04.10-06.06.00:556][884]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.00:562][884]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.01:111][941]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.01:116][941]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.01:754][  7]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.01:760][  7]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.02:418][ 74]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.02:423][ 74]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.03:179][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.06.03:179][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.06.03:180][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.06.03:180][153]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.06.03:180][153]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.06.06:646][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.06.06:646][515]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.06.06:646][515]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.06.06:646][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.06.06:648][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.06.06:652][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.06.06:661][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.06.06:663][515]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2024.04.10-06.06.06:663][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.04.10-06.06.06:664][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.04.10-06.06.06:668][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.06.06:670][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.10-06.06.06:798][516]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2024.04.10-06.06.06:850][516]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.06.08:745][647]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.06.08:751][647]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.06.14:569][163]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_62
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.14:630][167]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_62
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.16:778][353]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.06.16:803][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.10-06.06.16:847][353]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_63
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.16:957][355]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_63
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.18:413][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.06.18:417][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.06.18:417][479]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:06:18 am)
+[2024.04.10-06.06.18:417][479]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.06.18:419][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001696s)
+[2024.04.10-06.06.18:419][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.001725s)
+[2024.04.10-06.06.18:431][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.10-06.06.18:435][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.06.18:435][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.06.18:435][479]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.06.18:435][479]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2024.04.10-06.06.18:435][479]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.06.18:436][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.06.18:436][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.06.18:436][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.06.18:436][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.06.18:436][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.06.18:438][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.06.18:483][479]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.06.18:485][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.06.18:485][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.06.18:485][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.06.18:485][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2024.04.10-06.06.18:485][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2024.04.10-06.06.18:487][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2024.04.10-06.06.18:487][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2024.04.10-06.06.18:487][479]LogInit: FAudioDevice initialized with ID 65.
+[2024.04.10-06.06.18:487][479]LogAudio: Display: Audio Device (ID: 65) registered with world 'PhotoLevel'.
+[2024.04.10-06.06.18:487][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2024.04.10-06.06.18:489][479]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.06.18:490][479]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.06.18
+[2024.04.10-06.06.18:490][479]LogWorld: Bringing up level for play took: 0.000822
+[2024.04.10-06.06.18:492][479]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2024.04.10-06.06.18:493][479]PIE: Server logged in
+[2024.04.10-06.06.18:494][479]PIE: Play in editor total start time 0.075 seconds.
+[2024.04.10-06.06.19:727][603]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.19:733][603]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.20:308][662]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.20:314][662]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.20:941][727]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.20:946][727]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.21:601][795]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.21:607][795]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.06.22:339][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.06.22:339][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.06.22:339][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.06.22:339][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.06.22:339][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.06.24:657][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.06.24:657][111]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.06.24:657][111]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.06.24:657][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.06.24:660][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.06.24:664][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.06.24:677][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.06.24:677][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2024.04.10-06.06.24:677][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.04.10-06.06.24:679][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.04.10-06.06.24:683][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.06.24:685][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.10-06.06.24:816][112]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2024.04.10-06.06.24:868][112]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.06.26:787][254]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.06.26:793][254]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.06.31:036][624]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_64
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.31:086][627]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_64
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.34:319][838]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.06.34:346][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.10-06.06.34:389][838]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.34:491][840]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:025][668]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:037][669]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:080][670]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:093][671]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:107][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:120][673]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:133][674]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:145][675]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:159][676]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:173][677]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:186][678]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:198][679]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:211][680]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.06.49:225][681]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_65
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.07.10:409][268]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.07.10:437][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.10-06.07.10:479][268]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_66
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.07.13:130][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.07.13:135][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.07.13:135][479]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:07:13 am)
+[2024.04.10-06.07.13:135][479]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.07.13:136][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001771s)
+[2024.04.10-06.07.13:136][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.001797s)
+[2024.04.10-06.07.13:146][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.10-06.07.13:150][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.07.13:150][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.07.13:150][479]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.07.13:151][479]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2024.04.10-06.07.13:151][479]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.07.13:151][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.07.13:151][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.07.13:151][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.07.13:151][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.07.13:151][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.07.13:153][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.07.13:199][479]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.07.13:199][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.07.13:199][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.07.13:199][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.07.13:200][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2024.04.10-06.07.13:200][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2024.04.10-06.07.13:201][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2024.04.10-06.07.13:201][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2024.04.10-06.07.13:201][479]LogInit: FAudioDevice initialized with ID 66.
+[2024.04.10-06.07.13:201][479]LogAudio: Display: Audio Device (ID: 66) registered with world 'PhotoLevel'.
+[2024.04.10-06.07.13:201][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2024.04.10-06.07.13:204][479]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.07.13:205][479]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.07.13
+[2024.04.10-06.07.13:205][479]LogWorld: Bringing up level for play took: 0.000873
+[2024.04.10-06.07.13:206][479]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2024.04.10-06.07.13:207][479]PIE: Server logged in
+[2024.04.10-06.07.13:208][479]PIE: Play in editor total start time 0.073 seconds.
+[2024.04.10-06.07.14:866][651]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.14:872][651]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.15:465][713]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.15:470][713]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.16:044][773]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.16:050][773]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.16:676][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.07.16:676][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.07.16:676][839]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.07.16:676][839]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.07.19:085][ 97]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.10-06.07.19:086][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.10-06.07.20:757][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.07.20:757][271]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.07.20:758][271]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.07.20:758][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.07.20:762][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.07.20:765][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.07.20:778][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-06.07.20:778][271]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2024.04.10-06.07.20:778][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.04.10-06.07.20:779][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.04.10-06.07.20:784][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.07.20:785][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.10-06.07.20:933][272]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2024.04.10-06.07.20:972][272]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.07.23:189][426]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.07.23:194][426]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.07.27:158][766]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_67
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.07.30:444][ 46]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.07.30:471][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.10-06.07.30:515][ 46]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_68
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.07.45:391][354]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_68
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.07.47:082][498]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.07.47:100][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.10-06.07.47:130][498]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_69
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.07.49:772][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.10-06.07.49:777][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-06.07.49:777][709]PIE: New page: PIE session: PhotoLevel (11/04/2024, 6:07:49 am)
+[2024.04.10-06.07.49:807][709]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.07.49:809][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002611s)
+[2024.04.10-06.07.49:809][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PhotoLevel.PhotoLevel to /Game/UEDPIE_0_PhotoLevel.PhotoLevel (0.002660s)
+[2024.04.10-06.07.49:821][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.10-06.07.49:825][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-06.07.49:825][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-06.07.49:825][709]LogAIModule: Creating AISystem for world PhotoLevel
+[2024.04.10-06.07.49:825][709]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2024.04.10-06.07.49:825][709]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.10-06.07.49:825][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-06.07.49:825][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-06.07.49:827][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-06.07.49:827][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-06.07.49:827][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-06.07.49:829][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-06.07.49:874][709]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.10-06.07.49:874][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-06.07.49:874][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-06.07.49:874][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-06.07.49:875][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2024.04.10-06.07.49:875][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2024.04.10-06.07.49:876][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2024.04.10-06.07.49:876][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2024.04.10-06.07.49:876][709]LogInit: FAudioDevice initialized with ID 67.
+[2024.04.10-06.07.49:876][709]LogAudio: Display: Audio Device (ID: 67) registered with world 'PhotoLevel'.
+[2024.04.10-06.07.49:876][709]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2024.04.10-06.07.49:879][709]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.10-06.07.49:879][709]LogWorld: Bringing World /Game/UEDPIE_0_PhotoLevel.PhotoLevel up for play (max tick rate 0) at 2024.04.10-18.07.49
+[2024.04.10-06.07.49:880][709]LogWorld: Bringing up level for play took: 0.000859
+[2024.04.10-06.07.49:881][709]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2024.04.10-06.07.49:882][709]PIE: Server logged in
+[2024.04.10-06.07.49:883][709]PIE: Play in editor total start time 0.106 seconds.
+[2024.04.10-06.07.51:191][849]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.51:196][849]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.51:939][929]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.51:944][929]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.52:618][  2]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.52:623][  2]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.53:132][ 56]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.53:137][ 56]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.04.10-06.07.54:050][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.07.54:050][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.07.54:050][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue". Node:  Set Texture Parameter Value Graph:  EventGraph Function:  Execute Ubergraph Individual Photos Blueprint:  IndividualPhotos
+[2024.04.10-06.07.54:050][155]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.10-06.07.54:050][155]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.10-06.07.56:876][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.07.56:876][454]LogWorld: BeginTearingDown for /Game/UEDPIE_0_PhotoLevel
+[2024.04.10-06.07.56:877][454]LogWorld: UWorld::CleanupWorld for PhotoLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.07.56:877][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.07.56:879][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-06.07.56:882][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.07.56:895][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-06.07.56:895][454]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2024.04.10-06.07.56:895][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.04.10-06.07.56:897][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.04.10-06.07.56:902][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.10-06.07.57:035][455]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2024.04.10-06.07.57:090][455]LogViewport: Scene viewport resized to 889x482, mode Windowed.
+[2024.04.10-06.07.59:347][628]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.07.59:353][628]LogSlate: Window 'Message Log' being destroyed
+[2024.04.10-06.08.06:579][280]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UMaterialInstanceDynamic::SetTextureParameterValue' [The specified module could not be found.]
+[2024.04.10-06.08.11:148][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_70
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.08.17:565][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_70
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.09.06:713][794]BlueprintLog: New page: Compile IndividualPhotos
+[2024.04.10-06.09.06:733][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.10-06.09.06:762][794]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_71
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.09.09:947][ 77]LogSlate: Window 'IndividualPhotos' being destroyed
+[2024.04.10-06.09.09:952][ 77]LogSlate: Window 'IndividualPhotos' being destroyed
+[2024.04.10-06.09.09:960][ 77]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.09.09:960][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.09.09:965][ 77]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-06.09.09:965][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-06.09.57:063][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-06.09.57:103][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhotoLevel" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-06.09.57:124][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.10-06.09.57:135][767]LogSavePackage: Moving output files for package: /Game/PhotoLevel
+[2024.04.10-06.09.57:136][767]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/PhotoLevel725B425B4851561F548C76A7124D6CC4.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap'
+[2024.04.10-06.09.57:143][767]LogFileHelpers: Saving map 'PhotoLevel' took 0.040
+[2024.04.10-06.09.57:149][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.33 sec)
+[2024.04.10-06.09.57:150][767]AssetCheck: New page: Asset Save: PhotoLevel
+[2024.04.10-06.09.57:150][767]LogContentValidation: Display: Validating /Script/Engine.World /Game/PhotoLevel.PhotoLevel
+[2024.04.10-06.09.58:638][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.10-06.10.00:188][927]LogSlate: Window 'Save Content' being destroyed
+[2024.04.10-06.10.00:306][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-06.10.00:357][927]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_72
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.10.00:363][927]LogSavePackage: Moving output files for package: /Game/CameraFeature/IndividualPhotos
+[2024.04.10-06.10.00:363][927]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/IndividualPhotosEDA82C4242649DD0C6EFB88DE2330DDC.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/IndividualPhotos.uasset'
+[2024.04.10-06.10.00:368][927]LogSavePackage: Moving output files for package: /Game/CameraFeature/TestJournalPublished
+[2024.04.10-06.10.00:368][927]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/TestJournalPublishedF3FEF0D3466371AE7BE1CA97A59FC49F.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/TestJournalPublished.uasset'
+[2024.04.10-06.10.00:375][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.40 sec)
+[2024.04.10-06.10.00:378][927]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-06.10.00:378][927]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CameraFeature/IndividualPhotos.IndividualPhotos
+[2024.04.10-06.10.00:379][927]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CameraFeature/TestJournalPublished.TestJournalPublished
+[2024.04.10-06.11.55:146][626]LogScript: Warning: Accessed None trying to read property CallFunc_GetDynamicMaterial_ReturnValue
+	IndividualPhotos_C /Game/PhotoLevel.PhotoLevel:IndividualPhotos_C_72
+	Function /Game/CameraFeature/IndividualPhotos.IndividualPhotos_C:ExecuteUbergraph_IndividualPhotos:0055
+[2024.04.10-06.17.49:229][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-06.17.49:286][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhotoLevel" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-06.17.49:310][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.10-06.17.49:319][670]LogSavePackage: Moving output files for package: /Game/PhotoLevel
+[2024.04.10-06.17.49:320][670]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/PhotoLevel3E16707A4BD31D41AEE160B7C547ABED.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap'
+[2024.04.10-06.17.49:329][670]LogFileHelpers: Saving map 'PhotoLevel' took 0.043
+[2024.04.10-06.17.49:336][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.51 sec)
+[2024.04.10-06.17.49:337][670]AssetCheck: New page: Asset Save: PhotoLevel
+[2024.04.10-06.17.49:337][670]LogContentValidation: Display: Validating /Script/Engine.World /Game/PhotoLevel.PhotoLevel
+[2024.04.10-06.17.54:432][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-06.17.54:487][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhotoLevel" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-06.17.54:508][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.10-06.17.54:516][266]LogSavePackage: Moving output files for package: /Game/PhotoLevel
+[2024.04.10-06.17.54:516][266]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/PhotoLevel63E56B444DEB9699F708D68D564348CA.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap'
+[2024.04.10-06.17.54:526][266]LogFileHelpers: Saving map 'PhotoLevel' took 0.040
+[2024.04.10-06.17.54:532][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.61 sec)
+[2024.04.10-06.17.54:533][266]AssetCheck: New page: Asset Save: PhotoLevel
+[2024.04.10-06.17.54:533][266]LogContentValidation: Display: Validating /Script/Engine.World /Game/PhotoLevel.PhotoLevel
