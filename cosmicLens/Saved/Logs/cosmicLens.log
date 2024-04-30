@@ -1372,3 +1372,42 @@ Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
 [2024.04.30-01.26.42:911][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 233 ms)
 [2024.04.30-01.26.42:914][915]AssetCheck: New page: Asset Save: PlayerControlledCamera
 [2024.04.30-01.26.42:915][915]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera
+[2024.04.30-01.27.19:333][760]LogViewport: Scene viewport resized to 2166x1157, mode Windowed.
+[2024.04.30-01.27.20:807][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-01.27.24:009][282]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CameraFeature/AlienCharacter.AlienCharacter
+[2024.04.30-01.27.24:009][282]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-01.27.24:009][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-01.27.24:220][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-01.27.31:244][ 69]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Grading/AlienCore.AlienCore
+[2024.04.30-01.27.31:244][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.30-01.27.31:244][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-01.28.12:921][822]LogViewport: Scene viewport resized to 2050x1381, mode Windowed.
+[2024.04.30-01.28.16:046][177]BlueprintLog: New page: Compile AlienCharacter
+[2024.04.30-01.28.16:069][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.30-01.28.19:763][577]BlueprintLog: New page: Compile PlayerControlledCamera
+[2024.04.30-01.28.19:771][577]LogBlueprint: Warning: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Could not find a variable named "g" in 'PlayerControlledCamera_C'.
+Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
+[2024.04.30-01.28.19:772][577]LogBlueprint: Warning: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Could not find a variable named "g" in 'PlayerControlledCamera_C'.
+Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
+[2024.04.30-01.28.19:773][577]LogBlueprint: Warning: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Could not find a variable named "g" in 'PlayerControlledCamera_C'.
+Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
+[2024.04.30-01.28.19:773][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] This blueprint (self) is not a AlienCore_C, therefore ' Target ' must have a connection.
+[2024.04.30-01.28.19:773][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] This blueprint (self) is not a AlienCore_C, therefore ' Target ' must have a connection.
+[2024.04.30-01.28.19:774][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Variable node  Get perfFocus  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.04.30-01.28.19:774][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Variable node  Get perfZoom  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.04.30-01.28.19:774][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] The property associated with  G  could not be found in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C'
+[2024.04.30-01.28.19:775][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] The property associated with  G  could not be found in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C'
+[2024.04.30-01.28.19:775][577]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] The property associated with  G  could not be found in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C'
+[2024.04.30-01.28.19:792][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.30-01.29.01:090][358]LogViewport: Scene viewport resized to 2050x1381, mode Windowed.
+[2024.04.30-01.30.06:604][854]BlueprintLog: New page: Compile PlayerControlledCamera
+[2024.04.30-01.30.06:614][854]LogBlueprint: Warning: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Could not find a variable named "g" in 'PlayerControlledCamera_C'.
+Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
+[2024.04.30-01.30.06:614][854]LogBlueprint: Warning: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Could not find a variable named "g" in 'PlayerControlledCamera_C'.
+Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
+[2024.04.30-01.30.06:615][854]LogBlueprint: Warning: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] Could not find a variable named "g" in 'PlayerControlledCamera_C'.
+Make sure 'PlayerControlledCamera_C' has been compiled for  Get g
+[2024.04.30-01.30.06:617][854]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] The property associated with  G  could not be found in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C'
+[2024.04.30-01.30.06:617][854]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] The property associated with  G  could not be found in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C'
+[2024.04.30-01.30.06:617][854]LogBlueprint: Error: [AssetLog] C:\Users\dhanjiradh\dsdn102finalgame\cosmic_lens\cosmicLens\Content\CameraFeature\PlayerControlledCamera.uasset: [Compiler] The property associated with  G  could not be found in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C'
+[2024.04.30-01.30.06:636][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
