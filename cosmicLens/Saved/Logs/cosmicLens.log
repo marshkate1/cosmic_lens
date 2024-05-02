@@ -32639,3 +32639,399 @@ POS (x:0.0) (y: -90.0)
 [2024.05.02-04.55.23:942][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms
 [2024.05.02-04.55.23:944][126]AssetCheck: New page: Asset Save: PlayerControlledCamera
 [2024.05.02-04.55.23:944][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera
+[2024.05.02-04.57.03:690][157]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.02-04.57.12:790][500]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.02-04.57.12:801][500]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.02-04.57.12:830][500]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.02-04.57.12:898][501]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.02-04.57.29:455][477]LogContentBrowser: Attempting asset rename: NewBlueprint -> WDG_narrative_start
+[2024.05.02-04.57.29:562][477]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.02-04.57.33:928][974]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Search/UI/WDG_narrative_start.WDG_narrative_start
+[2024.05.02-04.57.33:928][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-04.57.33:928][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-04.57.33:935][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-04.57.33:935][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-04.58.06:084][299]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_controls.WDG_controls
+[2024.05.02-04.58.06:085][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-04.58.06:085][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-04.58.06:090][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-04.58.06:090][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-04.58.10:971][709]LogSlate: Window 'WDG_narrative_start' being destroyed
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: ================================================
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Total job queries 14, among them cache hits 2 (14.29%)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Tracking 11 distinct input hashes that result in 9 distinct outputs (81.82%)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: RAM used: 138.61 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Jobs assigned 12, completed 11 (91.67%)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Average time worker was idle: 331.59 s
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.00 s
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 1.02
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Shader code size: average 20.399 KiB, min 3.934 KiB, max 35.125 KiB
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.97 s
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Average processing rate: 3.70 jobs/sec
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Total thread time: 2.72 s
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Total thread preprocess time: 2.07 s
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Percentage time preprocessing: 76.12%
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                       FPostProcessMaterialVS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    3 times, average 0.20 sec, max 0.46 sec, min 0.07 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 21.84% of total time (compiled    3 times, average 0.20 sec, max 0.46 sec, min 0.07 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 19.59% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 16.87% of total time (compiled    3 times, average 0.15 sec, max 0.41 sec, min 0.02 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                       FPostProcessMaterialVS - 15.80% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.45% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.05.02-04.59.27:165][598]LogShaderCompilers: Display: ================================================
+[2024.05.02-04.59.51:498][165]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/LevelSelection/UI/Levels/WDG_aquatic_level.WDG_aquatic_level
+[2024.05.02-04.59.51:499][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-04.59.51:499][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-04.59.51:507][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-04.59.51:507][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-05.00.43:412][259]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.00.53:193][412]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.01.13:659][857]LogEditorTransaction: Undo Resize Widget
+[2024.05.02-05.01.48:595][969]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.02-05.01.48:595][969]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.02-05.02.19:546][674]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.02-05.03.52:090][723]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.03.58:112][427]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.04.51:724][795]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.04.57:087][412]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.05.26:732][872]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.05.39:342][343]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.05.47:643][319]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.05.55:168][196]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.06.05:375][363]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.06.09:378][828]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.06.45:316][ 75]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.02-05.07.36:723][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.09.29:876][318]BlueprintLog: New page: Compile WDG_narrative_start
+[2024.05.02-05.09.29:902][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.02-05.11.32:282][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:286][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:292][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:368][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:430][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:498][747]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:510][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:564][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:568][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:586][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:592][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:646][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:657][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:726][753]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:738][754]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:807][756]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:868][757]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:936][759]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.32:948][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:003][761]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:008][761]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:026][762]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:032][762]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:086][763]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:098][763]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:166][765]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.33:177][766]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:181][868]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:185][868]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:192][868]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:255][869]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:274][870]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:327][871]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:338][871]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:407][873]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:418][874]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:487][876]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.11.34:547][877]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.05.02-05.12.12:410][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.05.02-05.12.12:411][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Search/Map/main' took 0.014
+[2024.05.02-05.12.12:412][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Search/UI/WDG_narrative_start] ([2] browsable assets)...
+[2024.05.02-05.12.12:415][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Search/UI/WDG_narrative_start.WDG_narrative_start]
+[2024.05.02-05.12.12:416][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Search/UI/WDG_narrative_start]
+[2024.05.02-05.12.12:420][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Search/UI/WDG_narrative_start_Auto1
+[2024.05.02-05.12.12:420][313]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/WDG_narrative_start_Auto1DC56087D47F70B9FDB968E874FE60CD6.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/Search/UI/WDG_narrative_start_Auto1.uasset'
+[2024.05.02-05.12.12:421][313]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.05.02-05.13.21:586][590]BlueprintLog: New page: Compile WDG_narrative_start
+[2024.05.02-05.13.21:601][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.02-05.13.41:440][877]BlueprintLog: New page: Compile WDG_main_menu
+[2024.05.02-05.13.41:467][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.02-05.13.44:534][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-05.13.44:541][222]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-05.13.44:544][222]LogPlayLevel: [PlayLevel] Compiling WDG_narrative_start before play...
+[2024.05.02-05.13.44:570][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.02-05.13.44:572][222]LogPlayLevel: PlayLevel: Blueprint regeneration took 30 ms (1 blueprints)
+[2024.05.02-05.13.44:572][222]PIE: New page: PIE session: main (3/05/2024, 5:13:44 am)
+[2024.05.02-05.13.44:599][222]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.13.44:601][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001888s)
+[2024.05.02-05.13.44:601][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001929s)
+[2024.05.02-05.13.44:614][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.02-05.13.44:615][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-05.13.44:615][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-05.13.44:615][222]LogAIModule: Creating AISystem for world main
+[2024.05.02-05.13.44:615][222]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2024.05.02-05.13.44:615][222]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-05.13.44:615][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-05.13.44:615][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-05.13.44:617][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-05.13.44:617][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-05.13.44:617][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-05.13.44:618][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-05.13.44:670][222]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.02-05.13.44:671][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-05.13.44:671][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-05.13.44:671][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-05.13.44:671][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.02-05.13.44:671][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.02-05.13.44:673][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.02-05.13.44:673][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.02-05.13.44:673][222]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.02-05.13.44:673][222]LogAudio: Display: Audio Device (ID: 10) registered with world 'main'.
+[2024.05.02-05.13.44:673][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.02-05.13.44:675][222]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.02-05.13.44:678][222]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-05.13.44:678][222]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.02-17.13.44
+[2024.05.02-05.13.44:679][222]LogWorld: Bringing up level for play took: 0.000698
+[2024.05.02-05.13.44:680][222]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.05.02-05.13.44:684][222]PIE: Server logged in
+[2024.05.02-05.13.44:684][222]PIE: Play in editor total start time 0.143 seconds.
+[2024.05.02-05.13.57:108][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.13.57:108][687]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.13.57:108][687]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-05.13.57:108][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.13.57:112][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-05.13.57:115][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.13.57:124][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.13.57:125][687]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.02-05.13.57:125][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.02-05.13.57:126][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.02-05.13.57:133][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.02-05.13.57:195][689]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.05.02-05.28.06:130][269]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957797666
+[2024.05.02-05.28.06:130][269]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.05.02-05.28.14:887][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.02-05.28.14:888][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Search/Map/main' took 0.012
+[2024.05.02-05.28.14:888][285]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelSelection/UI/Menus/WDG_main_menu] ([2] browsable assets)...
+[2024.05.02-05.28.14:891][285]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_main_menu.WDG_main_menu]
+[2024.05.02-05.28.14:891][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelSelection/UI/Menus/WDG_main_menu]
+[2024.05.02-05.28.14:897][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelSelection/UI/Menus/WDG_main_menu_Auto2
+[2024.05.02-05.28.14:897][285]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/WDG_main_menu_Auto2551DFBC94076B10F8AF7008E95D6DD17.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/LevelSelection/UI/Menus/WDG_main_menu_Auto2.uasset'
+[2024.05.02-05.28.14:897][285]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Search/UI/WDG_narrative_start] ([2] browsable assets)...
+[2024.05.02-05.28.14:901][285]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Search/UI/WDG_narrative_start.WDG_narrative_start]
+[2024.05.02-05.28.14:901][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Search/UI/WDG_narrative_start]
+[2024.05.02-05.28.14:905][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Search/UI/WDG_narrative_start_Auto2
+[2024.05.02-05.28.14:905][285]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/WDG_narrative_start_Auto20C2583A8496ADDEE774EE09A40AAB826.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/Search/UI/WDG_narrative_start_Auto2.uasset'
+[2024.05.02-05.28.14:905][285]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.05.02-05.31.07:131][884]BlueprintLog: New page: Compile WDG_narrative_start
+[2024.05.02-05.31.07:160][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.02-05.31.09:099][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-05.31.09:106][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-05.31.09:106][107]PIE: New page: PIE session: main (3/05/2024, 5:31:09 am)
+[2024.05.02-05.31.09:106][107]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.31.09:107][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
+[2024.05.02-05.31.09:108][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001462s)
+[2024.05.02-05.31.09:117][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.02-05.31.09:119][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-05.31.09:119][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-05.31.09:120][107]LogAIModule: Creating AISystem for world main
+[2024.05.02-05.31.09:120][107]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2024.05.02-05.31.09:120][107]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-05.31.09:120][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-05.31.09:120][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-05.31.09:121][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-05.31.09:121][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-05.31.09:121][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-05.31.09:122][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-05.31.09:175][107]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.02-05.31.09:175][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-05.31.09:175][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-05.31.09:175][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-05.31.09:176][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.02-05.31.09:176][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.02-05.31.09:178][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.02-05.31.09:178][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.02-05.31.09:178][107]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.02-05.31.09:178][107]LogAudio: Display: Audio Device (ID: 11) registered with world 'main'.
+[2024.05.02-05.31.09:178][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.02-05.31.09:180][107]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.02-05.31.09:245][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.31.09:245][107]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-05.31.09:246][107]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.02-17.31.09
+[2024.05.02-05.31.09:246][107]LogWorld: Bringing up level for play took: 0.001257
+[2024.05.02-05.31.09:248][107]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.05.02-05.31.09:248][107]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.02-05.31.09:253][107]PIE: Server logged in
+[2024.05.02-05.31.09:254][107]PIE: Play in editor total start time 0.148 seconds.
+[2024.05.02-05.31.09:259][107]LogViewport: Scene viewport resized to 3831x2028, mode Windowed.
+[2024.05.02-05.31.17:119][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.31.17:119][765]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.31.17:119][765]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.02-05.31.17:121][765]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-05.31.17:123][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.31.17:125][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-05.31.17:127][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.31.17:135][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-05.31.17:135][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.02-05.31.17:135][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.02-05.31.17:137][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.02-05.31.17:144][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.02-05.31.17:196][768]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.05.02-05.31.30:434][299]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-05.31.30:462][299]LogPlayLevel: Warning: Cancelling Open Transaction 'Edit Specified Color' to start PIE session.
+[2024.05.02-05.31.30:462][299]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-05.31.30:463][299]LogPlayLevel: [PlayLevel] Compiling WDG_narrative_start before play...
+[2024.05.02-05.31.30:476][299]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.31.30:564][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.02-05.31.30:565][299]LogPlayLevel: PlayLevel: Blueprint regeneration took 102 ms (1 blueprints)
+[2024.05.02-05.31.30:565][299]PIE: New page: PIE session: main (3/05/2024, 5:31:30 am)
+[2024.05.02-05.31.30:565][299]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.31.30:566][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2024.05.02-05.31.30:566][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001319s)
+[2024.05.02-05.31.30:574][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.02-05.31.30:575][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-05.31.30:575][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-05.31.30:575][299]LogAIModule: Creating AISystem for world main
+[2024.05.02-05.31.30:576][299]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2024.05.02-05.31.30:576][299]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-05.31.30:576][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-05.31.30:576][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-05.31.30:576][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-05.31.30:576][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-05.31.30:576][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-05.31.30:577][299]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-05.31.30:628][299]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.02-05.31.30:628][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-05.31.30:628][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-05.31.30:628][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-05.31.30:629][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.02-05.31.30:630][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.02-05.31.30:631][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.02-05.31.30:631][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.02-05.31.30:631][299]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.02-05.31.30:631][299]LogAudio: Display: Audio Device (ID: 12) registered with world 'main'.
+[2024.05.02-05.31.30:631][299]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.02-05.31.30:633][299]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.02-05.31.30:692][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.31.30:692][299]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-05.31.30:693][299]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.02-17.31.30
+[2024.05.02-05.31.30:693][299]LogWorld: Bringing up level for play took: 0.000763
+[2024.05.02-05.31.30:695][299]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.02-05.31.30:696][299]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.02-05.31.30:700][299]PIE: Server logged in
+[2024.05.02-05.31.30:701][299]PIE: Play in editor total start time 0.26 seconds.
+[2024.05.02-05.31.30:773][299]LogViewport: Scene viewport resized to 3831x2028, mode Windowed.
+[2024.05.02-05.31.33:579][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.31.33:579][510]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.31.33:579][510]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.02-05.31.33:582][510]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-05.31.33:583][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.31.33:584][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-05.31.33:587][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.31.33:597][510]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.02-05.31.33:597][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.02-05.31.33:599][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.02-05.31.33:604][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.02-05.31.33:653][512]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.02-05.31.47:052][ 92]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.31.59:388][526]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.02-05.32.01:210][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-05.32.01:216][739]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-05.32.01:217][739]LogPlayLevel: [PlayLevel] Compiling WDG_narrative_start before play...
+[2024.05.02-05.32.01:240][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.02-05.32.01:241][739]LogPlayLevel: PlayLevel: Blueprint regeneration took 24 ms (1 blueprints)
+[2024.05.02-05.32.01:241][739]PIE: New page: PIE session: main (3/05/2024, 5:32:01 am)
+[2024.05.02-05.32.01:241][739]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.32.01:242][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2024.05.02-05.32.01:242][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001340s)
+[2024.05.02-05.32.01:251][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.02-05.32.01:252][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-05.32.01:252][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-05.32.01:252][739]LogAIModule: Creating AISystem for world main
+[2024.05.02-05.32.01:253][739]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2024.05.02-05.32.01:253][739]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-05.32.01:253][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-05.32.01:253][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-05.32.01:253][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-05.32.01:253][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-05.32.01:253][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-05.32.01:255][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-05.32.01:304][739]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.02-05.32.01:304][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-05.32.01:304][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-05.32.01:304][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-05.32.01:305][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.02-05.32.01:305][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.02-05.32.01:306][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.02-05.32.01:306][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.02-05.32.01:306][739]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.02-05.32.01:306][739]LogAudio: Display: Audio Device (ID: 13) registered with world 'main'.
+[2024.05.02-05.32.01:306][739]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.02-05.32.01:309][739]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.02-05.32.01:360][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.32.01:360][739]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-05.32.01:361][739]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.02-17.32.01
+[2024.05.02-05.32.01:362][739]LogWorld: Bringing up level for play took: 0.000918
+[2024.05.02-05.32.01:363][739]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.05.02-05.32.01:364][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.02-05.32.01:367][739]PIE: Server logged in
+[2024.05.02-05.32.01:368][739]PIE: Play in editor total start time 0.152 seconds.
+[2024.05.02-05.32.01:377][739]LogViewport: Scene viewport resized to 3831x2028, mode Windowed.
+[2024.05.02-05.32.04:779][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-05.32.04:779][ 11]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.02-05.32.04:779][ 11]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.02-05.32.04:782][ 11]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-05.32.04:783][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.32.04:785][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-05.32.04:788][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-05.32.04:798][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.02-05.32.04:798][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.02-05.32.04:799][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.02-05.32.04:805][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.02-05.32.04:856][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.05.02-05.32.07:646][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-05.32.07:711][326]LogSavePackage: Moving output files for package: /Game/Search/UI/WDG_narrative_start
+[2024.05.02-05.32.07:711][326]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/WDG_narrative_startD9576C9D4D94F5A9DF0DD8823325F9F5.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/Search/UI/WDG_narrative_start.uasset'
+[2024.05.02-05.32.07:826][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 261 ms)
+[2024.05.02-05.32.07:826][326]AssetCheck: New page: Asset Save: WDG_narrative_start
+[2024.05.02-05.32.07:826][326]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Search/UI/WDG_narrative_start.WDG_narrative_start
+[2024.05.02-05.32.09:821][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.02-05.32.11:335][551]LogSlate: Window 'Save Content' being destroyed
+[2024.05.02-05.32.11:447][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-05.32.11:508][551]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_main_menu
+[2024.05.02-05.32.11:508][551]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/WDG_main_menuB5F1EE1C47255490BE0010B36B51A6A8.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_main_menu.uasset'
+[2024.05.02-05.32.11:514][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 329 ms)
+[2024.05.02-05.32.11:522][551]AssetCheck: New page: Asset Save: WDG_main_menu
+[2024.05.02-05.32.11:522][551]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_main_menu.WDG_main_menu
