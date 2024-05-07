@@ -9903,3 +9903,43 @@ POS (x:0.0) (y: -90.0)
 [2024.05.07-05.29.10:180][750]LogSlate: Window 'AquaAlienCharacter' being destroyed
 [2024.05.07-05.29.10:186][750]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2024.05.07-05.29.10:186][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-05.29.35:372][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.07-05.29.35:382][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GrasslandLevel/GrasslandLevel_Auto1
+[2024.05.07-05.29.35:382][417]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrasslandLevel_Auto17D8C5F7B4678A7606741AF9AEA27D97A.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/GrasslandLevel/GrasslandLevel_Auto1.umap'
+[2024.05.07-05.29.35:383][417]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/GrasslandLevel/GrasslandLevel_Auto1.umap is in the /Temp path, will not scan.
+[2024.05.07-05.29.35:383][417]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/GrasslandLevel/GrasslandLevel_Auto1 is in the /Temp path, will not scan.
+[2024.05.07-05.29.35:383][417]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/GrasslandLevel/GrasslandLevel_Auto1 is in the /Temp path, will not scan.
+[2024.05.07-05.29.35:383][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GrasslandLevel/GrasslandLevel' took 0.025
+[2024.05.07-05.29.35:383][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2024.05.07-05.29.35:383][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GrasslandLevel/GrassAlienCharacter] ([2] browsable assets)...
+[2024.05.07-05.29.35:383][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/GrasslandLevel/GrassAlienCharacter]
+[2024.05.07-05.29.35:392][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GrasslandLevel/GrassAlienCharacter_Auto1
+[2024.05.07-05.29.35:392][417]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrassAlienCharacter_Auto198A484FC489674ACCFD75EB5A423CF46.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/GrasslandLevel/GrassAlienCharacter_Auto1.uasset'
+[2024.05.07-05.29.35:393][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GrasslandLevel/GrassAlienController] ([2] browsable assets)...
+[2024.05.07-05.29.35:393][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/GrasslandLevel/GrassAlienController]
+[2024.05.07-05.29.35:397][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GrasslandLevel/GrassAlienController_Auto1
+[2024.05.07-05.29.35:397][417]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrassAlienController_Auto13A8418834F8BCF67DD754CA301F4D0DD.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/GrasslandLevel/GrassAlienController_Auto1.uasset'
+[2024.05.07-05.29.35:397][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GrasslandLevel/GrasslandCamera] ([2] browsable assets)...
+[2024.05.07-05.29.35:397][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/GrasslandLevel/GrasslandCamera]
+[2024.05.07-05.29.35:431][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GrasslandLevel/GrasslandCamera_Auto1
+[2024.05.07-05.29.35:431][417]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrasslandCamera_Auto1E50F5D924227E37B3A2AFCBB07723853.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/GrasslandLevel/GrasslandCamera_Auto1.uasset'
+[2024.05.07-05.29.35:432][417]LogFileHelpers: Auto-saving content packages took 0.049
+[2024.05.07-05.29.40:997][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.07-05.29.42:984][434]LogSlate: Window 'Save Content' being destroyed
+[2024.05.07-05.29.43:088][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-05.29.43:169][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.07-05.29.43:178][434]LogSavePackage: Moving output files for package: /Game/GrasslandLevel/GrasslandLevel
+[2024.05.07-05.29.43:178][434]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrasslandLevelAB1EE10F414CA96720C17992B2DEFFD0.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/GrasslandLevel/GrasslandLevel.umap'
+[2024.05.07-05.29.43:186][434]LogFileHelpers: Saving map 'GrasslandLevel' took 0.044
+[2024.05.07-05.29.43:194][434]LogSavePackage: Moving output files for package: /Game/GrasslandLevel/GrassAlienCharacter
+[2024.05.07-05.29.43:194][434]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrassAlienCharacter08BFB3A54927371BDE1332A7BD18DEFF.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/GrasslandLevel/GrassAlienCharacter.uasset'
+[2024.05.07-05.29.43:199][434]LogSavePackage: Moving output files for package: /Game/GrasslandLevel/GrassAlienController
+[2024.05.07-05.29.43:199][434]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrassAlienController55C4160C412AF1B0719EC0BB2FBB5C76.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/GrasslandLevel/GrassAlienController.uasset'
+[2024.05.07-05.29.43:233][434]LogSavePackage: Moving output files for package: /Game/GrasslandLevel/GrasslandCamera
+[2024.05.07-05.29.43:234][434]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/GrasslandCamera8FFB2B2B4306607647794DB8335CC254.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/GrasslandLevel/GrasslandCamera.uasset'
+[2024.05.07-05.29.43:240][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1.34 sec)
+[2024.05.07-05.29.43:249][434]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.07-05.29.43:249][434]LogContentValidation: Display: Validating /Script/Engine.World /Game/GrasslandLevel/GrasslandLevel.GrasslandLevel
+[2024.05.07-05.29.43:249][434]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GrasslandLevel/GrassAlienCharacter.GrassAlienCharacter
+[2024.05.07-05.29.43:249][434]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GrasslandLevel/GrassAlienController.GrassAlienController
+[2024.05.07-05.29.43:249][434]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GrasslandLevel/GrasslandCamera.GrasslandCamera
