@@ -27488,3 +27488,45 @@ POS (x:0.0) (y: -90.0)
 [2024.05.07-05.13.26:735][858]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelSelection/UI/CaptureGallery/IndividualPhotos_Auto3
 [2024.05.07-05.13.26:735][858]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/IndividualPhotos_Auto360DF4B3B44ECB02EAE790D82D5ACFC05.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/LevelSelection/UI/CaptureGallery/IndividualPhotos_Auto3.uasset'
 [2024.05.07-05.13.26:736][858]LogFileHelpers: Auto-saving content packages took 0.066
+[2024.05.07-05.14.06:784][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.07-05.14.08:135][216]LogSlate: Window 'Save Content' being destroyed
+[2024.05.07-05.14.08:312][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-05.14.08:390][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.07-05.14.08:401][216]LogSavePackage: Moving output files for package: /Game/AquaLevel/AquaLevel
+[2024.05.07-05.14.08:401][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/AquaLevelBD83956D48F40B4E841C8B9EE61EC944.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/AquaLevel/AquaLevel.umap'
+[2024.05.07-05.14.08:409][216]LogFileHelpers: Saving map 'AquaLevel' took 0.048
+[2024.05.07-05.14.08:409][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AquaLevel/AquaAlienCharacter" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/AquaLevel/AquaAlienCharacter.uasset" SILENT=true
+[2024.05.07-05.14.08:419][216]LogSavePackage: Moving output files for package: /Game/AquaLevel/AquaAlienCharacter
+[2024.05.07-05.14.08:419][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/AquaAlienCharacter6C9852A745513C478A5B9888D8A07588.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/AquaLevel/AquaAlienCharacter.uasset'
+[2024.05.07-05.14.08:425][216]LogSavePackage: Moving output files for package: /Game/AquaLevel/AquaAlienController
+[2024.05.07-05.14.08:426][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/AquaAlienControllerFD1F0ACF45392890C91712B08941FD6D.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/AquaLevel/AquaAlienController.uasset'
+[2024.05.07-05.14.08:427][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AquaLevel/AquaPlayerCamera" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/AquaLevel/AquaPlayerCamera.uasset" SILENT=true
+[2024.05.07-05.14.08:461][216]LogSavePackage: Moving output files for package: /Game/AquaLevel/AquaPlayerCamera
+[2024.05.07-05.14.08:461][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/AquaPlayerCameraDD2C79A145D33AACB3443AB8662E9014.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/AquaLevel/AquaPlayerCamera.uasset'
+[2024.05.07-05.14.08:468][216]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/CaptureGallery/IndividualPhotos
+[2024.05.07-05.14.08:469][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/IndividualPhotosE3191E67494A84D160B772B2F2DF43A6.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/LevelSelection/UI/CaptureGallery/IndividualPhotos.uasset'
+[2024.05.07-05.14.08:471][216]LogSavePackage: Moving output files for package: /Game/placeholders/placeholder_blue
+[2024.05.07-05.14.08:471][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/placeholder_blue09D206C8423644923C1D4A914F53BDB8.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/placeholders/placeholder_blue.uasset'
+[2024.05.07-05.14.08:473][216]LogSavePackage: Moving output files for package: /Game/placeholders/placeholder_blue_Flipbook
+[2024.05.07-05.14.08:473][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/placeholder_blue_FlipbookCE911C554F2E97757EA0A68CF2B1E502.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/placeholders/placeholder_blue_Flipbook.uasset'
+[2024.05.07-05.14.08:475][216]LogSavePackage: Moving output files for package: /Game/placeholders/placeholder_blue_Sprite
+[2024.05.07-05.14.08:475][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/placeholder_blue_Sprite7CF6F1B6440A7D1F6F6F2FA3D335FFD0.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/placeholders/placeholder_blue_Sprite.uasset'
+[2024.05.07-05.14.08:478][216]LogSavePackage: Moving output files for package: /Game/placeholders/placeholder_green
+[2024.05.07-05.14.08:479][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/placeholder_green1C335C2746A9C0B583FB20BEFAA399A6.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/placeholders/placeholder_green.uasset'
+[2024.05.07-05.14.08:480][216]LogSavePackage: Moving output files for package: /Game/placeholders/placeholder_green_Flipbook
+[2024.05.07-05.14.08:480][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/placeholder_green_Flipbook0051E35C408E9F0CD6BE49AA12E93466.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/placeholders/placeholder_green_Flipbook.uasset'
+[2024.05.07-05.14.08:482][216]LogSavePackage: Moving output files for package: /Game/placeholders/placeholder_green_Sprite
+[2024.05.07-05.14.08:482][216]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/placeholder_green_Sprite37A70DA341C765E206B4B680559A597A.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/placeholders/placeholder_green_Sprite.uasset'
+[2024.05.07-05.14.08:609][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 1.72 sec)
+[2024.05.07-05.14.08:611][216]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.07-05.14.08:611][216]LogContentValidation: Display: Validating /Script/Engine.World /Game/AquaLevel/AquaLevel.AquaLevel
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AquaLevel/AquaAlienCharacter.AquaAlienCharacter
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AquaLevel/AquaAlienController.AquaAlienController
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AquaLevel/AquaPlayerCamera.AquaPlayerCamera
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/CaptureGallery/IndividualPhotos.IndividualPhotos
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/placeholders/placeholder_blue.placeholder_blue
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/placeholders/placeholder_blue_Flipbook.placeholder_blue_Flipbook
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/placeholders/placeholder_blue_Sprite.placeholder_blue_Sprite
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/placeholders/placeholder_green.placeholder_green
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/placeholders/placeholder_green_Flipbook.placeholder_green_Flipbook
+[2024.05.07-05.14.08:612][216]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/placeholders/placeholder_green_Sprite.placeholder_green_Sprite
