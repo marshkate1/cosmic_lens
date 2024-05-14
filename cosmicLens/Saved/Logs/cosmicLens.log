@@ -20557,3 +20557,2782 @@ POS (x:0.0) (y: 0.0)
 [2024.05.14-02.08.14:531][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2024.05.14-02.08.14:535][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2024.05.14-02.08.14:574][904]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.14-02.10.23:650][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.14-02.10.23:765][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.10.23:830][941]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_second_menu1
+[2024.05.14-02.10.23:830][941]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_second_menu147A5E91A44223E30A447968A0EBA5FDE.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_second_menu1.uasset'
+[2024.05.14-02.10.23:978][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 626 ms)
+[2024.05.14-02.10.24:333][941]AssetCheck: New page: Asset Save: WDG_second_menu1
+[2024.05.14-02.10.24:333][941]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_second_menu1.WDG_second_menu1
+[2024.05.14-02.10.33:989][992]LogContentBrowser: Attempting asset rename: WDG_second_menu1 -> WDG_HowToPlay
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay_C' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:PreConstruct' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:Construct' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:Tick' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:BndEvt__WDG_main_menu_Start_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:BndEvt__WDG_second_menu_back_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:BndEvt__WDG_second_menu_capture_gallery_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:BndEvt__WDG_second_menu_btn_controls_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:BndEvt__WDG_second_menu_shop_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.SKEL_WDG_HowToPlay_C:BndEvt__WDG_second_menu_blog_K2Node_ComponentBoundEvent_5_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:534][992]LogMetaData: Removing '/Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay_C:Construct' ref from Metadata '/Game/LevelSelection/UI/Menus/WDG_second_menu1.PackageMetaData'
+[2024.05.14-02.10.34:535][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.10.34:595][992]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_HowToPlay
+[2024.05.14-02.10.34:595][992]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_HowToPlay60799D47422685D13F69988A5E0AF5C0.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_HowToPlay.uasset'
+[2024.05.14-02.10.34:743][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 834 ms)
+[2024.05.14-02.10.34:943][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.14-02.10.34:953][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.14-02.10.34:962][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.14-02.10.35:081][992]SourceControl: rm 'cosmicLens/Content/LevelSelection/UI/Menus/WDG_second_menu1.uasset'
+[2024.05.14-02.10.35:085][992]AssetCheck: New page: Asset Save: WDG_HowToPlay
+[2024.05.14-02.10.35:085][992]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay
+[2024.05.14-02.10.36:293][119]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay
+[2024.05.14-02.10.36:293][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-02.10.36:293][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-02.10.36:300][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-02.10.36:300][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-02.10.40:993][631]LogSlate: Window 'WDG_HowToPlay' being destroyed
+[2024.05.14-02.11.36:502][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.11.36:563][970]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_HowToPlay
+[2024.05.14-02.11.36:563][970]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_HowToPlay1C84FE384CA015463550AD9A4C5F3F88.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_HowToPlay.uasset'
+[2024.05.14-02.11.36:569][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 901 ms)
+[2024.05.14-02.11.36:576][970]AssetCheck: New page: Asset Save: WDG_HowToPlay
+[2024.05.14-02.11.36:576][970]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay
+[2024.05.14-02.11.37:732][105]BlueprintLog: New page: Compile WDG_HowToPlay
+[2024.05.14-02.11.37:753][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.14-02.11.57:687][359]EditorErrors: Warning: Insufficient writing permission to save /Engine/UMG/Editor/Transient
+[2024.05.14-02.11.57:772][360]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.05.14-02.12.53:638][969]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.14-02.12.59:862][706]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 95706
+[2024.05.14-02.12.59:862][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-02.12.59:873][707]LogSlate: Took 0.004521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.14-02.12.59:877][707]LogSlate: Took 0.003353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.14-02.12.59:880][707]LogSlate: Took 0.003149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.14-02.12.59:885][707]LogSlate: Took 0.002999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.14-02.12.59:893][707]LogSlate: Took 0.003525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.14-02.13.21:073][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.13.21:136][214]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_HowToPlay
+[2024.05.14-02.13.21:136][214]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_HowToPlay67388AD446BECF5D5410DE877BFE64ED.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_HowToPlay.uasset'
+[2024.05.14-02.13.21:142][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 969 ms)
+[2024.05.14-02.13.21:146][214]AssetCheck: New page: Asset Save: WDG_HowToPlay
+[2024.05.14-02.13.21:147][214]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay
+[2024.05.14-02.13.22:491][358]EditorErrors: Warning: Insufficient writing permission to save /Engine/UMG/Editor/Transient
+[2024.05.14-02.13.22:573][359]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.05.14-02.16.30:962][565]LogSlate: Took 0.004952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.14-02.16.40:913][723]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Search/UI/WDG_narrative_start.WDG_narrative_start
+[2024.05.14-02.16.40:913][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-02.16.40:913][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-02.16.40:918][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-02.16.40:918][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-02.18.11:523][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.18.11:566][475]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_HowToPlay
+[2024.05.14-02.18.11:566][475]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_HowToPlayFADA640642CC16647F4A34B23CF5A3EC.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_HowToPlay.uasset'
+[2024.05.14-02.18.11:572][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.01 sec)
+[2024.05.14-02.18.11:575][475]AssetCheck: New page: Asset Save: WDG_HowToPlay
+[2024.05.14-02.18.11:577][475]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay
+[2024.05.14-02.18.14:672][841]BlueprintLog: New page: Compile WDG_HowToPlay
+[2024.05.14-02.18.14:692][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.14-02.18.44:828][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.18.44:874][209]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_second_menu
+[2024.05.14-02.18.44:874][209]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_second_menuBBF2E3154D04A0B6B2892489E57FE3CD.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_second_menu.uasset'
+[2024.05.14-02.18.44:881][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.07 sec)
+[2024.05.14-02.18.44:886][209]AssetCheck: New page: Asset Save: WDG_second_menu
+[2024.05.14-02.18.44:886][209]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_second_menu.WDG_second_menu
+[2024.05.14-02.18.45:474][277]BlueprintLog: New page: Compile WDG_second_menu
+[2024.05.14-02.18.45:507][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.14-02.18.59:493][843]EditorErrors: Warning: Insufficient writing permission to save /Engine/UMG/Editor/Transient
+[2024.05.14-02.18.59:594][844]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/UMG': No such file or directory
+[2024.05.14-02.19.36:511][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.19.36:578][149]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_controlsMenu
+[2024.05.14-02.19.36:579][149]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_controlsMenuF4967C4C4F036C38F119B9AEDAE87E57.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_controlsMenu.uasset'
+[2024.05.14-02.19.36:584][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.14 sec)
+[2024.05.14-02.19.36:592][149]AssetCheck: New page: Asset Save: WDG_controlsMenu
+[2024.05.14-02.19.36:592][149]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_controlsMenu.WDG_controlsMenu
+[2024.05.14-02.19.50:509][719]LogEditorTransaction: Undo Create Pin Link
+[2024.05.14-02.19.51:308][758]LogEditorTransaction: Undo Move Node
+[2024.05.14-02.19.52:111][843]LogEditorTransaction: Undo Paste clipboard contents
+[2024.05.14-02.20.03:212][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.20.03:277][ 84]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_controlsMenu
+[2024.05.14-02.20.03:278][ 84]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_controlsMenuD8E4E9C0460C7D4E51EF4DA13C7F9F78.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_controlsMenu.uasset'
+[2024.05.14-02.20.03:284][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.21 sec)
+[2024.05.14-02.20.03:285][ 84]AssetCheck: New page: Asset Save: WDG_controlsMenu
+[2024.05.14-02.20.03:285][ 84]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_controlsMenu.WDG_controlsMenu
+[2024.05.14-02.20.04:211][194]BlueprintLog: New page: Compile WDG_controlsMenu
+[2024.05.14-02.20.04:235][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.14-02.20.25:648][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.14-02.20.25:710][637]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/WDG_HowToPlay
+[2024.05.14-02.20.25:711][637]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_HowToPlay0EC24032438B2D60BB49A68E648D9AB8.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/WDG_HowToPlay.uasset'
+[2024.05.14-02.20.25:715][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.28 sec)
+[2024.05.14-02.20.25:718][637]AssetCheck: New page: Asset Save: WDG_HowToPlay
+[2024.05.14-02.20.25:718][637]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/WDG_HowToPlay.WDG_HowToPlay
+[2024.05.14-02.20.26:977][784]BlueprintLog: New page: Compile WDG_HowToPlay
+[2024.05.14-02.20.26:997][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.14-02.20.28:903][994]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.14-02.20.28:911][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.14-02.20.28:911][994]PIE: New page: PIE session: main (15/05/2024, 2:20:28 am)
+[2024.05.14-02.20.28:911][994]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.14-02.20.28:912][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001409s)
+[2024.05.14-02.20.28:912][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001440s)
+[2024.05.14-02.20.28:924][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.14-02.20.28:925][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.14-02.20.28:925][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.14-02.20.28:926][994]LogAIModule: Creating AISystem for world main
+[2024.05.14-02.20.28:926][994]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2024.05.14-02.20.28:926][994]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.14-02.20.28:926][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.14-02.20.28:926][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.14-02.20.28:926][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.14-02.20.28:926][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.14-02.20.28:926][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.14-02.20.28:929][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.14-02.20.28:985][994]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.14-02.20.28:985][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.14-02.20.28:985][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.14-02.20.28:985][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.14-02.20.28:986][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.14-02.20.28:986][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.14-02.20.28:987][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.14-02.20.28:987][994]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.14-02.20.28:987][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.14-02.20.28:987][994]LogAudio: Display: Audio Device (ID: 6) registered with world 'main'.
+[2024.05.14-02.20.28:987][994]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.14-02.20.28:990][994]LogInit: Error: Failed to load cursor '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.14-02.20.29:039][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-02.20.29:039][994]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.14-02.20.29:040][994]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.14-14.20.29
+[2024.05.14-02.20.29:040][994]LogWorld: Bringing up level for play took: 0.000792
+[2024.05.14-02.20.29:044][994]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.14-02.20.29:045][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/CameraFeature/PlayerControlledCamera.PlayerControlledCamera_C:UserConstructionScript'!
+[2024.05.14-02.20.29:045][994]LogScript: Warning: Script Msg called by: PlayerControlledCamera_C /Game/Search/Map/UEDPIE_0_main.main:PersistentLevel.PlayerControlledCamera_C_0
+[2024.05.14-02.20.29:047][994]PIE: Server logged in
+[2024.05.14-02.20.29:049][994]PIE: Play in editor total start time 0.138 seconds.
+[2024.05.14-02.20.29:050][994]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:062][994]LogViewport: Scene viewport resized to 3831x2028, mode Windowed.
+[2024.05.14-02.20.29:070][995]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:109][996]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:124][997]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:143][998]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:161][999]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:177][  0]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:194][  1]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:211][  2]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:227][  3]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:244][  4]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:261][  5]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:275][  6]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:287][  7]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:300][  8]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:314][  9]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:326][ 10]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:340][ 11]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:352][ 12]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:366][ 13]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:378][ 14]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:391][ 15]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:404][ 16]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:417][ 17]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:428][ 18]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:441][ 19]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:454][ 20]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:466][ 21]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:478][ 22]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:491][ 23]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:505][ 24]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:517][ 25]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:529][ 26]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:542][ 27]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:555][ 28]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:568][ 29]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:580][ 30]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:592][ 31]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:606][ 32]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:618][ 33]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:631][ 34]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:644][ 35]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:656][ 36]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:669][ 37]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:681][ 38]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:694][ 39]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:706][ 40]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:719][ 41]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:732][ 42]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:745][ 43]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:757][ 44]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:770][ 45]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:783][ 46]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:794][ 47]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:807][ 48]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:820][ 49]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:832][ 50]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:845][ 51]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:857][ 52]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:870][ 53]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:883][ 54]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:895][ 55]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:909][ 56]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:921][ 57]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:934][ 58]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:947][ 59]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:960][ 60]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:973][ 61]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:984][ 62]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.29:997][ 63]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:009][ 64]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:022][ 65]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:035][ 66]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:049][ 67]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:061][ 68]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:072][ 69]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:085][ 70]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:099][ 71]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:111][ 72]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:124][ 73]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:137][ 74]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:150][ 75]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:161][ 76]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:174][ 77]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:188][ 78]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:201][ 79]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:214][ 80]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:226][ 81]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:239][ 82]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:252][ 83]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:265][ 84]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:277][ 85]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:290][ 86]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:302][ 87]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:316][ 88]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:328][ 89]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:341][ 90]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:355][ 91]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:367][ 92]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:380][ 93]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:392][ 94]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:405][ 95]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:419][ 96]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:431][ 97]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:444][ 98]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:457][ 99]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:469][100]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:483][101]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:495][102]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:507][103]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:520][104]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:534][105]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:547][106]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:558][107]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:572][108]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:585][109]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:598][110]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:609][111]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:623][112]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:635][113]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:648][114]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:661][115]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:674][116]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:687][117]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:699][118]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:712][119]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:725][120]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:738][121]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:751][122]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:764][123]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:776][124]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:789][125]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:801][126]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:814][127]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:828][128]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:841][129]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:852][130]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:865][131]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:878][132]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:891][133]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:904][134]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:917][135]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:931][136]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:942][137]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:956][138]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:968][139]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:981][140]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.30:994][141]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:007][142]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:020][143]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:032][144]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:045][145]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:057][146]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:070][147]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:082][148]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:096][149]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:108][150]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:121][151]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:134][152]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:147][153]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:159][154]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:172][155]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:184][156]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:197][157]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:209][158]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:222][159]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:235][160]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:248][161]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:261][162]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:272][163]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:285][164]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:298][165]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:311][166]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:323][167]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:337][168]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:348][169]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:361][170]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:374][171]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:387][172]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:400][173]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:411][174]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:424][175]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:437][176]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:451][177]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:462][178]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:475][179]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:487][180]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:500][181]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:512][182]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:525][183]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:537][184]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:551][185]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:564][186]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:577][187]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:589][188]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:601][189]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:614][190]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:626][191]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:639][192]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:652][193]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:665][194]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:678][195]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:690][196]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:703][197]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:715][198]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:728][199]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:741][200]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:753][201]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:766][202]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:778][203]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:791][204]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:804][205]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:817][206]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:829][207]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:842][208]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:855][209]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:868][210]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:880][211]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:892][212]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:906][213]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:918][214]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:931][215]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:942][216]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:956][217]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:968][218]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:982][219]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.31:994][220]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:006][221]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:020][222]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:032][223]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:045][224]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:058][225]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:070][226]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:084][227]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:095][228]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:108][229]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:120][230]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:134][231]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:146][232]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:159][233]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:171][234]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:184][235]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:197][236]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:209][237]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:222][238]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:236][239]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:248][240]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:260][241]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:274][242]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:286][243]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:298][244]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:310][245]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:324][246]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:337][247]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:349][248]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:361][249]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:374][250]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:387][251]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:399][252]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:412][253]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:424][254]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.14-02.20.32:424][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.14-02.20.32:426][254]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:438][255]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:451][256]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:464][257]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:476][258]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:488][259]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:501][260]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:514][261]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:526][262]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:538][263]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:552][264]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:564][265]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:576][266]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:590][267]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:603][268]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:615][269]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:627][270]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:639][271]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:652][272]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:665][273]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:677][274]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:690][275]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:702][276]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:715][277]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:726][278]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:740][279]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:753][280]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:765][281]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:777][282]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:790][283]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:803][284]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:816][285]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:828][286]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:840][287]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:854][288]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:866][289]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:879][290]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:891][291]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:904][292]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:916][293]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:928][294]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:941][295]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:954][296]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:967][297]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:979][298]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.32:992][299]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:004][300]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:017][301]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:028][302]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:042][303]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:055][304]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:068][305]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:080][306]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:092][307]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:105][308]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:117][309]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:131][310]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:142][311]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:155][312]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:168][313]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:180][314]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:194][315]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:206][316]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:218][317]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:231][318]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:242][319]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:255][320]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:268][321]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:281][322]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:294][323]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:306][324]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:319][325]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:332][326]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:344][327]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:356][328]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:369][329]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:382][330]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:394][331]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:407][332]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:420][333]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:432][334]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:445][335]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:456][336]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:470][337]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:482][338]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:495][339]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:508][340]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:520][341]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:533][342]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:545][343]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:558][344]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:570][345]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:582][346]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:596][347]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:608][348]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:621][349]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:634][350]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:645][351]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:659][352]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:671][353]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:684][354]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:697][355]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:709][356]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:722][357]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:734][358]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:747][359]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:759][360]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:771][361]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:785][362]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:797][363]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:809][364]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:822][365]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:835][366]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:847][367]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:859][368]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:872][369]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:885][370]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:897][371]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:910][372]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:923][373]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:936][374]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:947][375]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:960][376]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:973][377]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:985][378]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.33:999][379]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:010][380]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:024][381]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:037][382]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:049][383]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:061][384]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:074][385]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:086][386]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:099][387]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:111][388]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:124][389]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:137][390]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:150][391]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:163][392]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:175][393]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:188][394]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:201][395]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:214][396]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:226][397]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:239][398]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:252][399]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:265][400]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:278][401]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:291][402]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:303][403]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:316][404]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:329][405]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:341][406]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:354][407]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:367][408]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:379][409]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:392][410]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:405][411]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:418][412]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:430][413]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:443][414]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:456][415]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:468][416]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:481][417]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:494][418]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:506][419]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:519][420]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:531][421]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:544][422]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:557][423]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:570][424]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:583][425]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:596][426]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:609][427]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:621][428]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:634][429]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:646][430]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:659][431]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:672][432]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:685][433]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:697][434]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:710][435]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:722][436]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:735][437]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:749][438]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:761][439]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:774][440]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:786][441]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:800][442]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:811][443]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:825][444]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:838][445]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:851][446]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:862][447]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:875][448]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:888][449]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:901][450]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:914][451]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:926][452]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:940][453]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:951][454]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:964][455]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:977][456]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.34:990][457]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:003][458]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:016][459]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:028][460]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:042][461]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:054][462]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:067][463]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:079][464]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:092][465]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:105][466]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:117][467]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:130][468]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:142][469]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:155][470]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:169][471]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:181][472]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:194][473]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:207][474]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:219][475]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:231][476]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:244][477]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:257][478]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:270][479]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:283][480]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:295][481]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:308][482]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:320][483]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:334][484]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:347][485]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:358][486]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:372][487]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:384][488]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:397][489]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:410][490]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:422][491]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:435][492]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:447][493]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:460][494]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:473][495]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:486][496]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:499][497]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:511][498]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:524][499]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:537][500]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:549][501]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:561][502]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:575][503]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:587][504]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:601][505]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:614][506]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:625][507]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:639][508]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:652][509]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:665][510]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:676][511]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:689][512]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:703][513]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:716][514]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:728][515]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:740][516]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:754][517]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:767][518]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:779][519]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:792][520]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:805][521]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:817][522]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:830][523]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:842][524]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:855][525]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:868][526]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:881][527]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:893][528]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:906][529]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:919][530]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:932][531]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:945][532]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:957][533]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:970][534]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:982][535]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.35:995][536]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:008][537]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:022][538]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:034][539]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:046][540]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:058][541]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:072][542]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:085][543]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:098][544]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:110][545]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:122][546]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:135][547]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:148][548]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:161][549]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:173][550]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:187][551]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:199][552]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:212][553]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:225][554]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:237][555]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:249][556]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:262][557]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:275][558]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:287][559]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:300][560]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:312][561]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:325][562]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:338][563]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:351][564]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:364][565]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:376][566]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:390][567]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:402][568]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:415][569]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:427][570]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:440][571]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:453][572]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:466][573]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:478][574]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:491][575]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:505][576]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:517][577]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:530][578]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:542][579]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:555][580]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:568][581]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:580][582]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:593][583]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:606][584]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:619][585]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:632][586]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:644][587]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:657][588]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:670][589]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:683][590]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:695][591]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:708][592]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:721][593]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:734][594]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:745][595]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:759][596]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:772][597]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:785][598]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:797][599]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:810][600]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:823][601]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:836][602]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:848][603]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:861][604]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:873][605]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:887][606]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:900][607]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:912][608]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:924][609]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:937][610]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:950][611]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:964][612]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:975][613]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.36:988][614]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:001][615]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:015][616]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:026][617]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:039][618]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:052][619]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:065][620]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:077][621]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:090][622]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:103][623]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:116][624]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:128][625]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:141][626]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:154][627]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:167][628]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:178][629]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:192][630]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:205][631]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:218][632]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:232][633]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:243][634]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:256][635]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:269][636]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:282][637]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:294][638]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:307][639]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:319][640]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:332][641]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:345][642]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:358][643]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:371][644]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:384][645]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:396][646]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:409][647]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:422][648]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:435][649]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:447][650]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:460][651]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:474][652]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:486][653]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:498][654]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:511][655]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:524][656]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:536][657]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:549][658]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:561][659]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:575][660]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:587][661]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:600][662]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:612][663]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:626][664]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:639][665]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:651][666]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:664][667]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:677][668]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:690][669]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:702][670]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:715][671]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:728][672]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:741][673]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:752][674]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:766][675]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:778][676]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:791][677]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:804][678]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:817][679]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:830][680]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:842][681]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:855][682]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:868][683]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:880][684]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:893][685]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:905][686]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:918][687]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:932][688]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:944][689]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:957][690]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:970][691]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:983][692]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.37:995][693]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:008][694]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:021][695]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:035][696]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:045][697]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:058][698]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:071][699]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:085][700]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:097][701]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:110][702]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:122][703]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:135][704]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:148][705]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:160][706]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:172][707]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:186][708]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:199][709]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:212][710]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:224][711]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:237][712]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:251][713]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:262][714]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:275][715]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:289][716]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:301][717]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:315][718]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:327][719]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:339][720]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:352][721]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:365][722]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:377][723]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:390][724]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:403][725]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:415][726]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:428][727]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:441][728]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:454][729]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:466][730]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:478][731]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:492][732]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:504][733]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:517][734]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:530][735]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:543][736]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:555][737]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:568][738]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:582][739]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:594][740]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:607][741]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:619][742]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:633][743]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:645][744]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:657][745]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:670][746]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:682][747]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:695][748]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:708][749]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:721][750]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:734][751]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:746][752]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:760][753]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:772][754]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:785][755]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:798][756]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:810][757]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:822][758]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:836][759]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:849][760]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:861][761]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:874][762]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:887][763]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:899][764]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:912][765]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:925][766]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:937][767]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:951][768]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:964][769]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:975][770]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.38:989][771]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:001][772]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:014][773]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:026][774]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:039][775]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:052][776]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:065][777]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:077][778]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:090][779]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:103][780]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:116][781]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:128][782]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:141][783]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:154][784]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:167][785]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:179][786]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:192][787]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:205][788]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:218][789]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:230][790]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:242][791]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:256][792]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:268][793]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:282][794]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:293][795]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:306][796]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:319][797]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:332][798]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:345][799]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:357][800]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:370][801]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:382][802]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:396][803]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:409][804]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:422][805]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:435][806]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:446][807]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:459][808]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:472][809]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:484][810]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:498][811]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:510][812]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:523][813]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:536][814]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:549][815]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:561][816]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:574][817]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:587][818]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:600][819]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:611][820]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:625][821]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:637][822]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:650][823]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:663][824]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:676][825]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:688][826]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:702][827]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:715][828]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:727][829]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:740][830]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:752][831]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:765][832]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:778][833]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:791][834]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:803][835]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:816][836]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:828][837]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:841][838]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:854][839]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:867][840]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:879][841]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:893][842]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:905][843]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:918][844]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:931][845]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:943][846]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:956][847]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:969][848]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:982][849]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.39:994][850]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:007][851]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:020][852]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:032][853]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:044][854]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:057][855]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:071][856]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:084][857]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:097][858]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:109][859]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:122][860]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:135][861]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:148][862]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] FOCUS: 35.0
+ZOOM: 2.8
+POS (x:0.6) (y: -5.799999)
+[2024.05.14-02.20.40:186][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.14-02.20.40:186][862]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.14-02.20.40:187][862]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.14-02.20.40:190][862]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.14-02.20.40:190][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-02.20.40:192][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.14-02.20.40:195][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.14-02.20.40:206][862]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.14-02.20.40:206][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.14-02.20.40:206][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.14-02.20.40:208][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.14-02.20.40:214][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.14-02.20.40:249][864]LogPlayLevel: Display: Destroying online subsystem :Context_25
