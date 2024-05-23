@@ -46760,3 +46760,61 @@ POS (x:6.0) (y: -86.800003)
 [2024.05.23-04.35.45:336][509]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/CaptureGallery/AlienArchiveStuff/GrassArchive.GrassArchive
 [2024.05.23-04.35.45:336][509]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/CaptureGallery/AlienArchiveStuff/IceArchive.IceArchive
 [2024.05.23-04.35.45:336][509]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/CaptureGallery/AlienArchiveStuff/SwampArchive.SwampArchive
+[2024.05.23-04.36.12:924][631]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.12:924][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.12:932][631]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.12:932][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.14:678][829]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.14:678][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.14:683][829]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.14:683][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.15:408][906]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.15:408][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.15:414][906]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.15:414][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.15:884][953]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.15:884][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.15:891][953]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.15:891][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.18:101][206]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.18:101][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.36.18:106][206]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-04.36.18:106][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-04.39.34:454][133]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-04.39.34:479][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.23-04.41.48:644][381]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-04.41.48:668][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.23-04.44.24:649][704]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-04.44.24:674][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.23-04.45.33:775][556]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-04.45.33:802][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.23-04.46.47:591][876]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-04.46.47:613][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.23-04.48.49:241][552]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-04.48.49:266][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.23-04.50.49:192][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.23-04.50.49:200][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Search/Map/main' took 0.020
+[2024.05.23-04.50.49:200][213]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CameraFeature/SimplePublicationScreen] ([2] browsable assets)...
+[2024.05.23-04.50.49:203][213]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CameraFeature/SimplePublicationScreen.SimplePublicationScreen]
+[2024.05.23-04.50.49:203][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/CameraFeature/SimplePublicationScreen]
+[2024.05.23-04.50.49:222][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CameraFeature/SimplePublicationScreen_Auto4
+[2024.05.23-04.50.49:223][213]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/SimplePublicationScreen_Auto4294C02C345935E6483D280AE06477565.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/CameraFeature/SimplePublicationScreen_Auto4.uasset'
+[2024.05.23-04.50.49:223][213]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.05.23-05.04.51:462][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.23-05.04.51:468][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Search/Map/main' took 0.019
+[2024.05.23-05.04.51:469][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CameraFeature/SimplePublicationScreen] ([2] browsable assets)...
+[2024.05.23-05.04.51:472][655]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CameraFeature/SimplePublicationScreen.SimplePublicationScreen]
+[2024.05.23-05.04.51:472][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/CameraFeature/SimplePublicationScreen]
+[2024.05.23-05.04.51:492][655]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CameraFeature/SimplePublicationScreen_Auto5
+[2024.05.23-05.04.51:493][655]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/SimplePublicationScreen_Auto5CC0ACFE441C994B2C1DD18BD37FCA8FB.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/CameraFeature/SimplePublicationScreen_Auto5.uasset'
+[2024.05.23-05.04.51:494][655]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.05.23-05.08.48:548][ 48]BlueprintLog: New page: Compile SimplePublicationScreen
+[2024.05.23-05.08.48:576][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.23-05.11.37:813][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.23-05.11.39:300][680]LogSlate: Window 'Save Content' being destroyed
+[2024.05.23-05.11.39:382][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-05.11.39:433][680]LogSavePackage: Moving output files for package: /Game/CameraFeature/SimplePublicationScreen
+[2024.05.23-05.11.39:433][680]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/SimplePublicationScreen2AD558404FA22228F2CE9A88274D0B4A.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/SimplePublicationScreen.uasset'
+[2024.05.23-05.11.39:440][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 333 ms)
+[2024.05.23-05.11.39:450][680]AssetCheck: New page: Asset Save: SimplePublicationScreen
+[2024.05.23-05.11.39:450][680]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CameraFeature/SimplePublicationScreen.SimplePublicationScreen
