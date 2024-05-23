@@ -84365,3 +84365,17 @@ POS (x:0.0) (y: 0.0)
 [2024.05.23-23.30.58:371][527]LogPlayLevel: Display: Destroying online subsystem :Context_36
 [2024.05.23-23.31.20:605][112]BlueprintLog: New page: Compile wdgmessages
 [2024.05.23-23.31.20:633][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.23-23.31.48:852][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.05.23-23.31.51:447][610]LogSlate: Window 'Save Content' being destroyed
+[2024.05.23-23.31.51:594][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-23.31.51:662][610]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Levels/WDG_desert_level_new
+[2024.05.23-23.31.51:664][610]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_desert_level_new1E009B174F469A19D04B63AE15F2C72B.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Levels/WDG_desert_level_new.uasset'
+[2024.05.23-23.31.51:679][610]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Levels/WDG_grassland_level_new
+[2024.05.23-23.31.51:679][610]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/WDG_grassland_level_new83DA00414AFA25158A70058ECEC9B59B.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Levels/WDG_grassland_level_new.uasset'
+[2024.05.23-23.31.51:702][610]LogSavePackage: Moving output files for package: /Game/LevelSelection/UI/Menus/IconWindows/wdgmessages
+[2024.05.23-23.31.51:702][610]LogSavePackage: Moving '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Saved/wdgmessagesEBA6348F45EA367D7BEB02A5D520BB8B.tmp' to '../../../../../../Users/hulenacole/GIT/new/cosmic_lens/cosmicLens/Content/LevelSelection/UI/Menus/IconWindows/wdgmessages.uasset'
+[2024.05.23-23.31.51:707][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.49 sec)
+[2024.05.23-23.31.51:710][610]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-23.31.51:710][610]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Levels/WDG_desert_level_new.WDG_desert_level_new
+[2024.05.23-23.31.51:711][610]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Levels/WDG_grassland_level_new.WDG_grassland_level_new
+[2024.05.23-23.31.51:712][610]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/IconWindows/wdgmessages.wdgmessages
