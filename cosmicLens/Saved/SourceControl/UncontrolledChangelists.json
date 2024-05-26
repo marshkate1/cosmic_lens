@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jacqu/Documents/GitHub/cosmic_lens/cosmicLens/Content/Assets/ICY_BACKGROUND.uasset",
+				"C:/Users/jacqu/Documents/GitHub/cosmic_lens/cosmicLens/Content/Assets/ICY_BACKGROUND_Sprite.uasset",
+				"C:/Users/jacqu/Documents/GitHub/cosmic_lens/cosmicLens/Content/DesertLevel/Desertlevel.umap",
+				"C:/Users/jacqu/Documents/GitHub/cosmic_lens/cosmicLens/Content/Assets/desert_cave.uasset",
+				"C:/Users/jacqu/Documents/GitHub/cosmic_lens/cosmicLens/Content/Assets/desert_cave_Sprite.uasset",
+				"C:/Users/jacqu/Documents/GitHub/cosmic_lens/cosmicLens/Content/Icelevel/Icelevel.umap",
 				"C:/Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/PhotoLevel.umap",
 				"C:/Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/PlayerControlledCamera.uasset",
 				"C:/Users/marshkate1/Documents/Unreal/cosmic_lens/cosmicLens/Content/StarterContent/Audio/Collapse01.uasset"
