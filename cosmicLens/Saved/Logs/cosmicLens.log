@@ -1301,3 +1301,1711 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.31-06.24.08:942][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 223 ms)
 [2024.05.31-06.24.08:945][665]AssetCheck: New page: Asset Save: wdgMainMenu
 [2024.05.31-06.24.08:946][665]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LevelSelection/UI/Menus/wdgMainMenu.wdgMainMenu
+[2024.05.31-06.24.46:014][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CameraFeature/AlienCharacter.AlienCharacter
+[2024.05.31-06.24.46:015][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.24.46:015][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.24.46:468][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.24.48:290][ 65]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.48:290][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.48:297][ 65]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.48:297][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.48:629][ 90]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.48:629][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.48:636][ 90]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.48:636][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.48:926][104]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.48:926][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.48:933][104]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.48:933][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.49:399][142]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.49:399][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.49:406][142]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.24.49:406][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.24.54:546][482]LogViewport: Scene viewport resized to 1876x1772, mode Windowed.
+[2024.05.31-06.26.19:557][ 80]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.26.19:613][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.31-06.26.47:154][175]LogSlate: Took 0.006722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.31-06.26.50:252][530]LogTexture: Display: Building textures: /Game/Assets/GRASSALIEN.GRASSALIEN (BGRA8, 453x401 x1x1x1) (Required Memory Estimate: 5.375126 MB), EncodeSpeed: Fast
+[2024.05.31-06.26.51:622][679]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.26.51:676][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.31-06.27.04:608][135]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Search/UI/maps/WDG_grassland.WDG_grassland
+[2024.05.31-06.27.04:608][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.27.04:608][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.27.04:615][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.27.04:615][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.27.10:018][754]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-06.27.10:025][754]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.31-06.27.10:027][754]LogPlayLevel: [PlayLevel] Compiling DesertArchive before play...
+[2024.05.31-06.27.10:033][754]LogPlayLevel: [PlayLevel] Compiling GrassArchive before play...
+[2024.05.31-06.27.10:047][754]LogPlayLevel: [PlayLevel] Compiling IceArchive before play...
+[2024.05.31-06.27.10:067][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.31-06.27.10:071][754]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (3 blueprints)
+[2024.05.31-06.27.10:071][754]PIE: New page: PIE session: main (1/06/2024, 6:27:10 am)
+[2024.05.31-06.27.10:075][754]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.31-06.27.10:075][754]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.31-06.27.10:075][754]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.27.10:077][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001909s)
+[2024.05.31-06.27.10:078][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001937s)
+[2024.05.31-06.27.10:086][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.31-06.27.10:087][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.27.10:087][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.27.10:087][754]LogAIModule: Creating AISystem for world main
+[2024.05.31-06.27.10:087][754]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2024.05.31-06.27.10:088][754]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.27.10:088][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-06.27.10:088][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.27.10:088][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.27.10:088][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.27.10:088][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.27.10:090][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.27.10:145][754]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.31-06.27.10:145][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.27.10:145][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.27.10:145][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.27.10:147][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.31-06.27.10:147][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.31-06.27.10:148][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.31-06.27.10:148][754]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.31-06.27.10:148][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.31-06.27.10:148][754]LogAudio: Display: Audio Device (ID: 2) registered with world 'main'.
+[2024.05.31-06.27.10:148][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.31-06.27.10:150][754]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.31-06.27.10:216][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.27.10:217][754]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.31-06.27.10:218][754]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.31-18.27.10
+[2024.05.31-06.27.10:218][754]LogWorld: Bringing up level for play took: 0.001275
+[2024.05.31-06.27.10:220][754]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.05.31-06.27.10:227][754]PIE: Server logged in
+[2024.05.31-06.27.10:228][754]PIE: Play in editor total start time 0.203 seconds.
+[2024.05.31-06.27.10:256][754]LogViewport: Scene viewport resized to 3769x2028, mode Windowed.
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: ================================================
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 5 distinct outputs (62.50%)
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: RAM used: 76.86 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.31-06.27.13:190][964]LogShaderCompilers: Display: ================================================
+[2024.05.31-06.27.16:155][213]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.27.19:089][456]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.20:572][578]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.27.21:500][655]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.22:455][734]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.26:959][108]Set new viewmode: Unlit
+[2024.05.31-06.27.29:738][440]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] Focus: 0
+Zoom: 100
+Centering:70
+[2024.05.31-06.27.30:572][539]LogBlueprintUserMessages: [IndividualPhotos_C_0] photo visible
+[2024.05.31-06.27.30:855][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:855][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:855][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:863][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:863][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:863][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:871][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:871][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:871][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:880][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:880][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:880][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:889][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:889][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:889][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:897][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:897][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:897][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:906][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:906][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:906][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:913][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:913][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:913][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:922][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:922][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:922][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:930][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:930][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:930][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:939][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:939][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:939][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:941][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:941][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:941][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:947][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:947][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:947][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:948][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:949][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:949][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:955][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:956][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:956][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:957][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:957][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:957][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:963][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:963][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:963][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:965][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:965][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:965][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:972][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:972][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:972][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:974][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:974][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:974][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:980][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:980][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:980][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:982][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:982][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:982][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:988][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:988][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:988][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:990][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:990][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:990][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:997][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:997][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:997][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:999][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.30:999][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.30:999][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:005][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:005][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:005][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:007][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:007][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:007][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:013][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:013][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:013][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:015][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:015][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:015][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:022][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:022][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:022][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:024][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:024][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:024][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:030][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:030][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:030][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:032][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:032][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:032][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:039][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:039][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:039][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:040][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:040][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:040][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:047][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:047][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:047][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:048][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:048][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:048][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:055][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:055][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:055][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:057][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:057][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:057][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:064][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:064][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:064][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:066][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:066][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:066][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:072][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:072][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:072][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:074][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:074][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:074][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:081][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:081][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:081][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:082][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:082][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:082][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:089][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:089][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:089][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:090][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:090][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:090][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:097][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:097][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:097][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:099][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:099][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:099][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:105][603]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:105][603]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:105][603]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:107][603]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:107][603]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:107][603]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:114][604]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:114][604]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:114][604]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:116][604]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:116][604]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:116][604]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:122][605]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:122][605]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:122][605]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:124][605]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:124][605]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:124][605]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:130][606]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:130][606]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:130][606]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:132][606]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:132][606]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:132][606]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:139][607]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:139][607]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:139][607]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:141][607]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:141][607]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:141][607]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:147][608]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:147][608]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:147][608]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:149][608]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:149][608]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:149][608]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:156][609]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:156][609]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:156][609]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:157][609]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:157][609]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:157][609]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:164][610]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:164][610]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:164][610]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:166][610]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:166][610]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:166][610]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:172][611]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:172][611]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:172][611]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:174][611]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:174][611]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:174][611]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:180][612]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:180][612]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:180][612]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:183][612]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:183][612]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:183][612]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:189][613]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:189][613]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:189][613]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:191][613]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:191][613]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:191][613]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:196][614]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:197][614]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:197][614]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:198][614]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:198][614]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:198][614]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:206][615]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:206][615]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:206][615]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:207][615]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:207][615]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:207][615]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:213][616]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:214][616]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:214][616]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:215][616]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:215][616]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:215][616]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:222][617]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:222][617]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:222][617]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:224][617]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:224][617]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:224][617]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:230][618]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:230][618]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:230][618]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:232][618]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:232][618]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:232][618]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:239][619]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:239][619]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:239][619]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:241][619]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:241][619]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:241][619]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:247][620]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:247][620]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:247][620]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:249][620]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:249][620]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:249][620]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:256][621]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:256][621]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:256][621]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:257][621]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:257][621]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:257][621]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:264][622]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:264][622]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:264][622]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:266][622]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:266][622]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:266][622]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:272][623]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:272][623]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:272][623]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:274][623]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:274][623]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:274][623]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:281][624]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:281][624]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:281][624]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:282][624]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:282][624]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:282][624]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:288][625]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:288][625]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:288][625]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:290][625]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:290][625]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:290][625]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:297][626]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:297][626]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:297][626]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:299][626]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:299][626]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:299][626]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:305][627]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:305][627]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:305][627]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:307][627]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:307][627]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.31:307][627]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.31:962][706]LogBlueprintUserMessages: [SimplePublicationScreen_C_0] grass3
+[2024.05.31-06.27.31:962][706]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.SimplePublicationScreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] text committed
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] grass3
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] 
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] 0
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] worked 2
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] text committed
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] grass3
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] e
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] 0
+[2024.05.31-06.27.33:444][884]LogBlueprintUserMessages: [alienNamingPopup_C_0] worked 2
+[2024.05.31-06.27.34:437][  3]LogBlueprintUserMessages: [TestJournalPublished_C_0] 
+[2024.05.31-06.27.34:437][  3]LogBlueprintUserMessages: [TestJournalPublished_C_0] 0
+[2024.05.31-06.27.34:437][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass3
+[2024.05.31-06.27.34:437][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.34:438][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] photo visible
+[2024.05.31-06.27.35:287][105]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.27.35:287][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_0.WidgetTree_0.TestJournalPublished_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.36:312][228]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_0.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.37:454][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_0.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.42:186][933]Set new viewmode: Unlit
+[2024.05.31-06.27.43:354][ 73]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] Focus: 0
+Zoom: 100
+Centering:70
+[2024.05.31-06.27.49:606][823]LogBlueprintUserMessages: [IndividualPhotos_C_0] photo visible
+[2024.05.31-06.27.50:307][907]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:307][907]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:307][907]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:309][907]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:309][907]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:309][907]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:315][908]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:315][908]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:315][908]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:317][908]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:317][908]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:317][908]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:324][909]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:324][909]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:324][909]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:326][909]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:326][909]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:326][909]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:331][910]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:331][910]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:331][910]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:334][910]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:334][910]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:334][910]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:340][911]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:340][911]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:340][911]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:342][911]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:342][911]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:342][911]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:348][912]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:348][912]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:348][912]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:350][912]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:350][912]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:350][912]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:357][913]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:357][913]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:357][913]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:359][913]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:359][913]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:359][913]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:365][914]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:365][914]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:365][914]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:367][914]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:367][914]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:367][914]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:373][915]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:374][915]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:374][915]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:375][915]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:375][915]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:375][915]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:382][916]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:382][916]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:382][916]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:383][916]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:383][916]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:383][916]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:391][917]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:391][917]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:391][917]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:392][917]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:392][917]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:392][917]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:399][918]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:399][918]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:399][918]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:400][918]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:400][918]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:400][918]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:407][919]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:407][919]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:407][919]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:409][919]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:409][919]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:409][919]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:416][920]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:416][920]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:416][920]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:417][920]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:417][920]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:417][920]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:424][921]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:424][921]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:424][921]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:425][921]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:425][921]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:425][921]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:432][922]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:432][922]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:432][922]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:434][922]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:434][922]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:434][922]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:441][923]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:441][923]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:441][923]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:442][923]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:442][923]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:442][923]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:449][924]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:449][924]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:449][924]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:450][924]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:450][924]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:450][924]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:457][925]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:457][925]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:457][925]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:459][925]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:459][925]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:459][925]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:465][926]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:465][926]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:465][926]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:467][926]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:467][926]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:467][926]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:474][927]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:474][927]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:474][927]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:476][927]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:476][927]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:476][927]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:482][928]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:482][928]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:482][928]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:484][928]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:484][928]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:484][928]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:491][929]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:491][929]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:491][929]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:492][929]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:492][929]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:492][929]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:499][930]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:499][930]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:499][930]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:501][930]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:501][930]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:501][930]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:507][931]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:507][931]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:507][931]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:509][931]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:509][931]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:509][931]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:516][932]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:516][932]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:516][932]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:518][932]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:518][932]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:518][932]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:524][933]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:524][933]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:524][933]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:526][933]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:526][933]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:526][933]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:532][934]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:532][934]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:532][934]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:534][934]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:534][934]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:534][934]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:540][935]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:540][935]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:540][935]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:542][935]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:542][935]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:542][935]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:549][936]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:549][936]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:549][936]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:550][936]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:550][936]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:550][936]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:557][937]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:557][937]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:557][937]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:559][937]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:559][937]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:559][937]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:565][938]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:565][938]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:565][938]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:567][938]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:567][938]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:567][938]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:574][939]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:574][939]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:574][939]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:576][939]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:576][939]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:576][939]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:582][940]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:582][940]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:582][940]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:584][940]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:584][940]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:584][940]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:590][941]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:590][941]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:590][941]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:592][941]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:592][941]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:592][941]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:598][942]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:598][942]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:598][942]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:600][942]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:600][942]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:600][942]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:607][943]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:607][943]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:607][943]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:609][943]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:609][943]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:609][943]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:615][944]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:615][944]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:615][944]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:617][944]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:617][944]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:617][944]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:624][945]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:624][945]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:624][945]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:626][945]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:626][945]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:626][945]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:632][946]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:632][946]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:632][946]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:633][946]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:633][946]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:633][946]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:640][947]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:640][947]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:640][947]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:642][947]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:643][947]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:643][947]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:649][948]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:649][948]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:649][948]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:651][948]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:651][948]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:651][948]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:657][949]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:657][949]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:657][949]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:659][949]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:659][949]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:659][949]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:665][950]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:666][950]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:666][950]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:667][950]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:667][950]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:667][950]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:673][951]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:673][951]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:673][951]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:675][951]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:675][951]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:675][951]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:682][952]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:682][952]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:682][952]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:684][952]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:684][952]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:684][952]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:691][953]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:691][953]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:691][953]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:693][953]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:693][953]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:693][953]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:699][954]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:699][954]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:699][954]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:700][954]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:701][954]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:701][954]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:707][955]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:707][955]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:707][955]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:709][955]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:709][955]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:709][955]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:715][956]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:715][956]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:715][956]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:717][956]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:717][956]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:717][956]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:723][957]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:724][957]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:724][957]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:725][957]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:725][957]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:725][957]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:732][958]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:732][958]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:732][958]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:734][958]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:734][958]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:734][958]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:740][959]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:741][959]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:741][959]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:742][959]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:742][959]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:742][959]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:748][960]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:748][960]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:748][960]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:750][960]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:750][960]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:750][960]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:757][961]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:757][961]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:757][961]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:759][961]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:759][961]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:759][961]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:765][962]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:765][962]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:765][962]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:767][962]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:767][962]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:767][962]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:774][963]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:774][963]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:774][963]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:776][963]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:776][963]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:776][963]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:782][964]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:782][964]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:782][964]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:784][964]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:784][964]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:784][964]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:791][965]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:791][965]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:791][965]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:793][965]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:793][965]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:793][965]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:799][966]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:799][966]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:799][966]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:800][966]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:800][966]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:800][966]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:807][967]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:807][967]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:807][967]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:809][967]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.50:809][967]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.50:809][967]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.51:629][ 66]LogBlueprintUserMessages: [SimplePublicationScreen_C_1] grass
+[2024.05.31-06.27.51:629][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.SimplePublicationScreen_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] text committed
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] grass
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] 
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] 0
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] worked 2
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] text committed
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] grass
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] fwre
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] 0
+[2024.05.31-06.27.53:188][253]LogBlueprintUserMessages: [alienNamingPopup_C_1] worked 2
+[2024.05.31-06.27.54:180][372]LogBlueprintUserMessages: [TestJournalPublished_C_0] 
+[2024.05.31-06.27.54:180][372]LogBlueprintUserMessages: [TestJournalPublished_C_0] 0
+[2024.05.31-06.27.54:180][372]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass
+[2024.05.31-06.27.54:180][372]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.27.54:180][372]LogBlueprintUserMessages: [IndividualPhotos_C_0] photo visible
+[2024.05.31-06.27.55:155][489]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.27.55:155][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_1.WidgetTree_0.TestJournalPublished_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.55:930][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_1.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.27.57:464][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_1.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.28.01:730][278]Set new viewmode: Unlit
+[2024.05.31-06.28.09:814][248]LogBlueprintUserMessages: [SimplePublicationScreen_C_2] grass2
+[2024.05.31-06.28.09:815][248]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.SimplePublicationScreen_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] text committed
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] grass2
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] 
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] 0
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] worked 2
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] text committed
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] grass2
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] rvftbre
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] 0
+[2024.05.31-06.28.11:330][429]LogBlueprintUserMessages: [alienNamingPopup_C_2] worked 2
+[2024.05.31-06.28.12:322][548]LogBlueprintUserMessages: [TestJournalPublished_C_0] 
+[2024.05.31-06.28.12:322][548]LogBlueprintUserMessages: [TestJournalPublished_C_0] 0
+[2024.05.31-06.28.13:147][647]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.28.13:147][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_2.WidgetTree_0.TestJournalPublished_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.28.14:022][752]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_2.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.28.15:505][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_0.alienNamingPopup_C_2.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.28.17:155][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.28.17:155][123]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.28.17:155][123]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.28.17:160][123]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.28.17:162][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.28.17:164][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.28.17:168][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.28.17:180][123]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.31-06.28.17:180][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.31-06.28.17:183][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.31-06.28.17:189][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.31-06.28.17:229][125]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.05.31-06.28.57:040][666]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.28.57:094][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.31-06.28.58:599][818]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-06.28.58:607][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-06.28.58:607][818]PIE: New page: PIE session: main (1/06/2024, 6:28:58 am)
+[2024.05.31-06.28.58:607][818]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.28.58:609][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001887s)
+[2024.05.31-06.28.58:609][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001916s)
+[2024.05.31-06.28.58:619][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.31-06.28.58:623][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.28.58:623][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.28.58:623][818]LogAIModule: Creating AISystem for world main
+[2024.05.31-06.28.58:624][818]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2024.05.31-06.28.58:624][818]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.28.58:624][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-06.28.58:624][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.28.58:624][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.28.58:624][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.28.58:624][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.28.58:626][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.28.58:679][818]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.31-06.28.58:679][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.28.58:679][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.28.58:679][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.28.58:680][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.31-06.28.58:680][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.31-06.28.58:681][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.31-06.28.58:681][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.31-06.28.58:681][818]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.31-06.28.58:681][818]LogAudio: Display: Audio Device (ID: 3) registered with world 'main'.
+[2024.05.31-06.28.58:681][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.31-06.28.58:683][818]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.31-06.28.58:737][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.28.58:737][818]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.31-06.28.58:739][818]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.31-18.28.58
+[2024.05.31-06.28.58:739][818]LogWorld: Bringing up level for play took: 0.001418
+[2024.05.31-06.28.58:742][818]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.05.31-06.28.58:745][818]PIE: Server logged in
+[2024.05.31-06.28.58:747][818]PIE: Play in editor total start time 0.14 seconds.
+[2024.05.31-06.28.58:760][818]LogViewport: Scene viewport resized to 3772x2028, mode Windowed.
+[2024.05.31-06.29.04:585][288]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.29.05:235][341]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_1.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.29.07:329][511]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.29.07:329][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_1.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.29.08:105][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_1.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.29.11:077][813]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.29.11:755][868]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_1.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.29.12:865][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_1.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.29.17:703][351]LogBlueprintUserMessages: [AlienCharacter_C_0] grass doesn't work
+[2024.05.31-06.29.17:703][351]Set new viewmode: Unlit
+[2024.05.31-06.29.19:994][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.29.19:994][620]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.29.19:994][620]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.29.19:999][620]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.29.19:999][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.29.20:001][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.29.20:004][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.29.20:014][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-06.29.20:014][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.31-06.29.20:014][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.31-06.29.20:016][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.31-06.29.20:022][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.31-06.29.20:062][622]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.05.31-06.29.35:176][374]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.29.35:230][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.31-06.29.49:327][  5]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.29.49:382][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.31-06.30.05:069][737]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-06.30.05:076][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-06.30.05:076][737]PIE: New page: PIE session: main (1/06/2024, 6:30:05 am)
+[2024.05.31-06.30.05:077][737]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.30.05:078][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001828s)
+[2024.05.31-06.30.05:078][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001854s)
+[2024.05.31-06.30.05:090][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.31-06.30.05:093][737]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.30.05:093][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.30.05:093][737]LogAIModule: Creating AISystem for world main
+[2024.05.31-06.30.05:093][737]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2024.05.31-06.30.05:093][737]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.30.05:094][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-06.30.05:094][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.30.05:094][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.30.05:094][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.30.05:094][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.30.05:096][737]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.30.05:148][737]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.31-06.30.05:148][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.30.05:148][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.30.05:148][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.30.05:149][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.31-06.30.05:149][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.31-06.30.05:150][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.31-06.30.05:150][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.31-06.30.05:150][737]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.31-06.30.05:150][737]LogAudio: Display: Audio Device (ID: 4) registered with world 'main'.
+[2024.05.31-06.30.05:150][737]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.31-06.30.05:152][737]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.31-06.30.05:187][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.30.05:187][737]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.31-06.30.05:189][737]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.31-18.30.05
+[2024.05.31-06.30.05:190][737]LogWorld: Bringing up level for play took: 0.001137
+[2024.05.31-06.30.05:192][737]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.05.31-06.30.05:195][737]PIE: Server logged in
+[2024.05.31-06.30.05:197][737]PIE: Play in editor total start time 0.121 seconds.
+[2024.05.31-06.30.05:210][737]LogViewport: Scene viewport resized to 3775x2028, mode Windowed.
+[2024.05.31-06.30.10:719][184]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.30.11:795][272]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_2.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.30.13:742][431]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.30.13:742][431]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_2.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.30.14:887][524]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_2.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.30.18:140][786]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.30.19:198][872]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_2.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.30.20:120][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_2.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.30.23:936][257]LogBlueprintUserMessages: [AlienCharacter_C_0] grass works
+[2024.05.31-06.30.23:936][257]Set new viewmode: Unlit
+[2024.05.31-06.30.26:414][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.30.26:414][549]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.30.26:414][549]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.30.26:419][549]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.30.26:419][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.30.26:421][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.30.26:424][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.30.26:435][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-06.30.26:436][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.31-06.30.26:436][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.31-06.30.26:438][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.31-06.30.26:444][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.31-06.30.26:484][551]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.05.31-06.30.41:502][288]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.30.41:557][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.31-06.30.45:580][714]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-06.30.45:588][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-06.30.45:588][714]PIE: New page: PIE session: main (1/06/2024, 6:30:45 am)
+[2024.05.31-06.30.45:588][714]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.30.45:590][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001877s)
+[2024.05.31-06.30.45:590][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001903s)
+[2024.05.31-06.30.45:600][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.31-06.30.45:603][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.30.45:603][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.30.45:603][714]LogAIModule: Creating AISystem for world main
+[2024.05.31-06.30.45:604][714]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2024.05.31-06.30.45:604][714]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.30.45:604][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-06.30.45:604][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.30.45:604][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.30.45:604][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.30.45:604][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.30.45:606][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.30.45:659][714]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.31-06.30.45:659][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.30.45:659][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.30.45:659][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.30.45:659][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.31-06.30.45:659][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.31-06.30.45:660][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.31-06.30.45:660][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.31-06.30.45:660][714]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.31-06.30.45:660][714]LogAudio: Display: Audio Device (ID: 5) registered with world 'main'.
+[2024.05.31-06.30.45:660][714]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.31-06.30.45:663][714]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.31-06.30.45:706][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.30.45:706][714]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.31-06.30.45:707][714]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.31-18.30.45
+[2024.05.31-06.30.45:708][714]LogWorld: Bringing up level for play took: 0.000906
+[2024.05.31-06.30.45:709][714]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.05.31-06.30.45:713][714]PIE: Server logged in
+[2024.05.31-06.30.45:715][714]PIE: Play in editor total start time 0.127 seconds.
+[2024.05.31-06.30.45:728][714]LogViewport: Scene viewport resized to 3778x2028, mode Windowed.
+[2024.05.31-06.30.51:066][143]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.30.52:259][240]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_3.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.32.27:972][943]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.32.44:479][289]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.31-06.32.44:479][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.31-06.32.48:869][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_3.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.32.50:122][747]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_3.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.32.55:416][179]Set new viewmode: Unlit
+[2024.05.31-06.32.59:225][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.32.59:225][630]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.32.59:225][630]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.32.59:231][630]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.32.59:231][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.32.59:233][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.32.59:237][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.32.59:249][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-06.32.59:250][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.31-06.32.59:250][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.31-06.32.59:251][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.31-06.32.59:258][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.31-06.32.59:299][632]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.05.31-06.34.00:237][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.31-06.34.00:241][ 41]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Search/Map/main' took 0.016
+[2024.05.31-06.34.00:248][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CameraFeature/AlienCharacter] ([2] browsable assets)...
+[2024.05.31-06.34.00:248][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/CameraFeature/AlienCharacter]
+[2024.05.31-06.34.00:290][ 41]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CameraFeature/AlienCharacter_Auto1
+[2024.05.31-06.34.00:290][ 41]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/AlienCharacter_Auto124412BBD464A24A65A9005B398A90437.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/Autosaves/Game/CameraFeature/AlienCharacter_Auto1.uasset'
+[2024.05.31-06.34.00:290][ 41]LogFileHelpers: Auto-saving content packages took 0.050
+[2024.05.31-06.34.53:813][738]LogEditorTransaction: Undo Move Nodes
+[2024.05.31-06.35.54:323][355]BlueprintLog: New page: Compile WDG_grassland
+[2024.05.31-06.35.54:349][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.31-06.37.23:243][919]BlueprintLog: New page: Compile AlienCharacter
+[2024.05.31-06.37.23:304][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.31-06.38.53:146][ 61]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-06.38.53:153][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-06.38.53:153][ 61]PIE: New page: PIE session: main (1/06/2024, 6:38:53 am)
+[2024.05.31-06.38.53:153][ 61]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.38.53:154][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001973s)
+[2024.05.31-06.38.53:154][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.002001s)
+[2024.05.31-06.38.53:167][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.31-06.38.53:170][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.38.53:170][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.38.53:171][ 61]LogAIModule: Creating AISystem for world main
+[2024.05.31-06.38.53:171][ 61]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2024.05.31-06.38.53:171][ 61]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.38.53:171][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-06.38.53:171][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.38.53:171][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.38.53:171][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.38.53:171][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.38.53:173][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.38.53:227][ 61]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.31-06.38.53:227][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.38.53:227][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.38.53:227][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.38.53:229][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.31-06.38.53:229][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.31-06.38.53:230][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.31-06.38.53:230][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.31-06.38.53:230][ 61]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.31-06.38.53:230][ 61]LogAudio: Display: Audio Device (ID: 6) registered with world 'main'.
+[2024.05.31-06.38.53:230][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.31-06.38.53:234][ 61]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.31-06.38.53:265][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.38.53:265][ 61]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.31-06.38.53:266][ 61]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.31-18.38.53
+[2024.05.31-06.38.53:267][ 61]LogWorld: Bringing up level for play took: 0.001018
+[2024.05.31-06.38.53:268][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.05.31-06.38.53:272][ 61]PIE: Server logged in
+[2024.05.31-06.38.53:274][ 61]PIE: Play in editor total start time 0.121 seconds.
+[2024.05.31-06.38.53:288][ 61]LogViewport: Scene viewport resized to 3781x2028, mode Windowed.
+[2024.05.31-06.38.58:801][518]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.39.12:897][688]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_4.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.39.15:487][900]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.39.16:301][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_4.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.39.17:536][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_4.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.39.22:983][519]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsVariables_3
+	WDG_grassland_C /Engine/Transient.UnrealEdEngine_0:Variables_C_4.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.WDG_desert_level_new_C_0.WidgetTree_0.WDG_aquatic_level_C_0.WidgetTree_0.WDG_grassland_level_new_C_0.WidgetTree_0.WDG_confirmation_grass_C_0.WidgetTree_0.WDG_grassland_C_0
+	Function /Game/Search/UI/maps/WDG_grassland.WDG_grassland_C:ExecuteUbergraph_WDG_grassland:0283
+[2024.05.31-06.39.22:985][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsVariables_3". Node:  Set currentPlanet Graph:  EventGraph Function:  Execute Ubergraph WDG Grassland Blueprint:  WDG_grassland
+[2024.05.31-06.39.22:985][519]LogScript: Warning: Attempted to assign to None
+	WDG_grassland_C /Engine/Transient.UnrealEdEngine_0:Variables_C_4.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.WDG_desert_level_new_C_0.WidgetTree_0.WDG_aquatic_level_C_0.WidgetTree_0.WDG_grassland_level_new_C_0.WidgetTree_0.WDG_confirmation_grass_C_0.WidgetTree_0.WDG_grassland_C_0
+	Function /Game/Search/UI/maps/WDG_grassland.WDG_grassland_C:ExecuteUbergraph_WDG_grassland:0298
+[2024.05.31-06.39.22:985][519]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set currentPlanet Graph:  EventGraph Function:  Execute Ubergraph WDG Grassland Blueprint:  WDG_grassland
+[2024.05.31-06.39.22:985][519]Set new viewmode: Unlit
+[2024.05.31-06.39.25:483][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.39.25:483][815]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.39.25:484][815]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.39.25:487][815]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.39.25:487][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.39.25:489][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.39.25:492][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.39.25:499][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-06.39.25:500][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.31-06.39.25:500][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.31-06.39.25:501][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.31-06.39.25:509][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.31-06.39.25:609][816]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.05.31-06.39.42:079][489]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-06.39.42:083][489]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-06.40.54:370][436]BlueprintLog: New page: Compile WDG_grassland
+[2024.05.31-06.40.54:398][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.31-06.40.55:914][600]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-06.40.55:921][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-06.40.55:921][600]PIE: New page: PIE session: main (1/06/2024, 6:40:55 am)
+[2024.05.31-06.40.55:921][600]LogPlayLevel: Creating play world package: /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.40.55:924][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001958s)
+[2024.05.31-06.40.55:924][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Search/Map/main.main to /Game/Search/Map/UEDPIE_0_main.main (0.001988s)
+[2024.05.31-06.40.55:933][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.31-06.40.55:937][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-06.40.55:937][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-06.40.55:937][600]LogAIModule: Creating AISystem for world main
+[2024.05.31-06.40.55:937][600]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2024.05.31-06.40.55:937][600]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.31-06.40.55:937][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-06.40.55:937][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-06.40.55:938][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-06.40.55:938][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-06.40.55:938][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-06.40.55:938][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-06.40.55:938][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-06.40.55:938][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-06.40.55:938][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-06.40.55:938][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-06.40.55:938][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-06.40.55:939][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-06.40.55:994][600]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.31-06.40.55:994][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-06.40.55:994][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-06.40.55:995][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-06.40.55:995][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.31-06.40.55:995][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.31-06.40.55:997][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.31-06.40.55:997][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.31-06.40.55:997][600]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.31-06.40.55:997][600]LogAudio: Display: Audio Device (ID: 7) registered with world 'main'.
+[2024.05.31-06.40.55:997][600]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.31-06.40.55:999][600]LogInit: Error: Failed to load cursor '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/WP_Cursor'
+[2024.05.31-06.40.56:059][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.40.56:060][600]LogLoad: Game class is 'gradeGamemode_C'
+[2024.05.31-06.40.56:060][600]LogWorld: Bringing World /Game/Search/Map/UEDPIE_0_main.main up for play (max tick rate 0) at 2024.05.31-18.40.56
+[2024.05.31-06.40.56:060][600]LogWorld: Bringing up level for play took: 0.001058
+[2024.05.31-06.40.56:064][600]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.31-06.40.56:069][600]PIE: Server logged in
+[2024.05.31-06.40.56:070][600]PIE: Play in editor total start time 0.149 seconds.
+[2024.05.31-06.40.56:085][600]LogViewport: Scene viewport resized to 3784x2028, mode Windowed.
+[2024.05.31-06.41.01:896][ 75]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.41.03:429][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.04:711][308]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.41.04:711][308]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.05:389][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.08:243][597]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.41.10:332][769]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.11:461][862]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.wdgMainMenu_C_0.WidgetTree_0.wdgLogIn_C_0.WidgetTree_0.wdgLoadingScreen_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_shop_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.14:920][147]Set new viewmode: Unlit
+[2024.05.31-06.41.17:027][399]LogBlueprintUserMessages: [PlayerControlledCamera_C_0] Focus: 0
+Zoom: 40
+Centering:70
+[2024.05.31-06.41.17:829][495]LogBlueprintUserMessages: [IndividualPhotos_C_0] photo visible
+[2024.05.31-06.41.18:380][561]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:380][561]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:380][561]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:381][561]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:381][561]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:381][561]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:387][562]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:387][562]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:387][562]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:390][562]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:390][562]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:390][562]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:396][563]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:396][563]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:396][563]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:398][563]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:398][563]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:398][563]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:404][564]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:404][564]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:404][564]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:406][564]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:406][564]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:406][564]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:413][565]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:413][565]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:413][565]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:414][565]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:414][565]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:415][565]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:420][566]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:420][566]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:420][566]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:423][566]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:423][566]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:423][566]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:429][567]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:429][567]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:429][567]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:431][567]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:431][567]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:431][567]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:437][568]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:437][568]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:437][568]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:439][568]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:439][568]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:439][568]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:446][569]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:446][569]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:446][569]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:448][569]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:448][569]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:448][569]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:455][570]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:455][570]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:455][570]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:457][570]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:457][570]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:457][570]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:462][571]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:462][571]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:462][571]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:464][571]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:464][571]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:464][571]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:471][572]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:471][572]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:471][572]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:473][572]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:473][572]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:473][572]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:479][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:479][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:479][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:482][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:482][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:482][573]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:488][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:488][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:488][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:489][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:489][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:489][574]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:496][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:497][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:497][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:498][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:498][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:498][575]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:505][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:505][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:505][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:507][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:507][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:507][576]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:512][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:512][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:512][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:515][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:515][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:515][577]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:521][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:521][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:521][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:523][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:523][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:523][578]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:530][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:530][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:530][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:531][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:531][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:531][579]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:538][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:538][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:538][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:539][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:539][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:539][580]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:546][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:546][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:546][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:548][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:548][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:548][581]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:555][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:555][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:555][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:557][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:557][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:557][582]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:563][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:563][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:563][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:565][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:565][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:565][583]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:571][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:571][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:571][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:573][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:573][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:573][584]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:580][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:580][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:580][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:581][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:581][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:581][585]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:589][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:589][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:589][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:591][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:591][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:591][586]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:596][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:596][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:596][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:598][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:598][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:598][587]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:605][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:605][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:605][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:607][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:607][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:607][588]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:613][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:613][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:613][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:615][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:615][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:615][589]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:621][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:622][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:622][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:623][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:623][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:623][590]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:630][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:630][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:630][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:632][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:632][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:632][591]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:637][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:638][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:638][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:639][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:639][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:639][592]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:646][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:646][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:646][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:648][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:648][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:648][593]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:654][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:654][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:654][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:656][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:656][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:656][594]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:663][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:663][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:663][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:665][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:665][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:665][595]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:671][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:671][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:671][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:673][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:673][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:673][596]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:680][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:680][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:680][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:682][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:682][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:682][597]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:687][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:687][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:687][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:689][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:689][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:689][598]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:696][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:696][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:696][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:698][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:698][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:698][599]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:705][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:705][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:705][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:707][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:707][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:707][600]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:713][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:713][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:713][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:715][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:715][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:715][601]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:721][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:721][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:721][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:723][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.18:723][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.18:723][602]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.19:361][679]LogBlueprintUserMessages: [SimplePublicationScreen_C_0] grass2
+[2024.05.31-06.41.19:361][679]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.SimplePublicationScreen_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.20:794][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] text committed
+[2024.05.31-06.41.20:794][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] grass2
+[2024.05.31-06.41.20:794][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] 
+[2024.05.31-06.41.20:794][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] 0
+[2024.05.31-06.41.20:794][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] worked 2
+[2024.05.31-06.41.20:794][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] text committed
+[2024.05.31-06.41.20:795][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] grass2
+[2024.05.31-06.41.20:795][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] wrge
+[2024.05.31-06.41.20:795][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] 0
+[2024.05.31-06.41.20:795][851]LogBlueprintUserMessages: [alienNamingPopup_C_0] worked 2
+[2024.05.31-06.41.21:787][970]LogBlueprintUserMessages: [TestJournalPublished_C_0] 
+[2024.05.31-06.41.21:787][970]LogBlueprintUserMessages: [TestJournalPublished_C_0] 0
+[2024.05.31-06.41.21:787][970]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:787][970]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:787][970]LogBlueprintUserMessages: [IndividualPhotos_C_0] photo visible
+[2024.05.31-06.41.21:798][971]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:798][971]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:798][971]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:800][971]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:800][971]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:800][971]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:805][972]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:805][972]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:805][972]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:807][972]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:807][972]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:807][972]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:814][973]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:814][973]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:814][973]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:816][973]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:816][973]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:816][973]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:822][974]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:822][974]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:822][974]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:824][974]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:824][974]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:824][974]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:830][975]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:830][975]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:830][975]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:833][975]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:833][975]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:833][975]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:839][976]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:839][976]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:839][976]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:840][976]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:841][976]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:841][976]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:848][977]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:848][977]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:848][977]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:850][977]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:850][977]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:850][977]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:855][978]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:855][978]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:855][978]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:857][978]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:857][978]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:857][978]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:864][979]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:864][979]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:864][979]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:866][979]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:866][979]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:866][979]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:872][980]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:872][980]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:872][980]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:874][980]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:874][980]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:874][980]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:881][981]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:881][981]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:881][981]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:883][981]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:883][981]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:883][981]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:889][982]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:889][982]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:889][982]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:891][982]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:891][982]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:891][982]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:898][983]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:898][983]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:898][983]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:900][983]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:900][983]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:900][983]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:906][984]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:906][984]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:906][984]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:908][984]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:908][984]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:908][984]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:914][985]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:914][985]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:914][985]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:916][985]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:916][985]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:916][985]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:922][986]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:923][986]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:923][986]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:924][986]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:925][986]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:925][986]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:931][987]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:931][987]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:931][987]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:932][987]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:932][987]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:932][987]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:939][988]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:939][988]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:939][988]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:941][988]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:941][988]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:941][988]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:947][989]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:947][989]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:947][989]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:949][989]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:949][989]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:949][989]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:956][990]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:956][990]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:956][990]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:958][990]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:958][990]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:958][990]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:963][991]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:963][991]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:963][991]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:966][991]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:966][991]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:966][991]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:972][992]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:972][992]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:972][992]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:974][992]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:974][992]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:974][992]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:981][993]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:981][993]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:981][993]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:982][993]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:982][993]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:982][993]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:989][994]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:989][994]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:989][994]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:991][994]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:991][994]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:991][994]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:998][995]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.21:998][995]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.21:998][995]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:000][995]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:000][995]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:000][995]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:006][996]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:006][996]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:006][996]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:008][996]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:008][996]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:008][996]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:014][997]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:015][997]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:015][997]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:017][997]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:017][997]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:017][997]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:022][998]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:022][998]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:022][998]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:024][998]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:024][998]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:024][998]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:030][999]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:030][999]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:030][999]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:033][999]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:033][999]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:033][999]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:039][  0]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:039][  0]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:039][  0]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:041][  0]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:041][  0]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:041][  0]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:048][  1]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:048][  1]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:048][  1]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:049][  1]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:049][  1]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:049][  1]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:056][  2]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:056][  2]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:056][  2]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:058][  2]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:058][  2]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:058][  2]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:065][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:065][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:065][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:067][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:067][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:067][  3]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:072][  4]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:072][  4]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:072][  4]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:074][  4]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:074][  4]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:074][  4]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:081][  5]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:081][  5]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:081][  5]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:083][  5]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:083][  5]LogBlueprintUserMessages: [IndividualPhotos_C_0] g
+[2024.05.31-06.41.22:083][  5]LogBlueprintUserMessages: [IndividualPhotos_C_0] grass2
+[2024.05.31-06.41.22:779][ 89]LogBlueprintUserMessages: [wdgSecondMenu_C_0] false
+[2024.05.31-06.41.22:779][ 89]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.alienNamingPopup_C_0.WidgetTree_0.TestJournalPublished_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.24:004][236]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.alienNamingPopup_C_0.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.25:237][384]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:Variables_C_5.alienNamingPopup_C_0.WidgetTree_0.TestJournalPublished_C_0.WidgetTree_0.wdgSecondMenu_C_0.WidgetTree_0.WDG_swamp_level_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2024.05.31-06.41.28:644][792]Set new viewmode: Unlit
+[2024.05.31-06.41.30:304][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-06.41.30:304][988]LogWorld: BeginTearingDown for /Game/Search/Map/UEDPIE_0_main
+[2024.05.31-06.41.30:304][988]LogSlate: Window 'cosmicLens Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-06.41.30:307][988]LogWorld: UWorld::CleanupWorld for main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-06.41.30:307][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.41.30:309][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-06.41.30:313][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-06.41.30:323][988]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-06.41.30:323][988]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.31-06.41.30:323][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.31-06.41.30:325][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.31-06.41.30:330][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.31-06.41.30:385][993]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.31-06.41.37:063][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.31-06.41.37:904][725]LogSlate: Window 'Save Content' being destroyed
+[2024.05.31-06.41.38:036][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-06.41.38:089][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraFeature/AlienCharacter" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/AlienCharacter.uasset" SILENT=true
+[2024.05.31-06.41.38:131][725]LogSavePackage: Moving output files for package: /Game/CameraFeature/AlienCharacter
+[2024.05.31-06.41.38:131][725]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/AlienCharacterFF7597D14D14A5510A8DF28B49B48922.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/CameraFeature/AlienCharacter.uasset'
+[2024.05.31-06.41.38:136][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Search/UI/maps/WDG_grassland" FILE="../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/Search/UI/maps/WDG_grassland.uasset" SILENT=true
+[2024.05.31-06.41.38:154][725]LogSavePackage: Moving output files for package: /Game/Search/UI/maps/WDG_grassland
+[2024.05.31-06.41.38:154][725]LogSavePackage: Moving '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Saved/WDG_grassland31674F2D467EC481341DBD947E2F205A.tmp' to '../../../../../../Users/dhanjiradh/dsdn102finalgame/cosmic_lens/cosmicLens/Content/Search/UI/maps/WDG_grassland.uasset'
+[2024.05.31-06.41.38:160][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 347 ms)
+[2024.05.31-06.41.38:162][725]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-06.41.38:162][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CameraFeature/AlienCharacter.AlienCharacter
+[2024.05.31-06.41.38:163][725]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Search/UI/maps/WDG_grassland.WDG_grassland
